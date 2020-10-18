@@ -9,11 +9,9 @@ UID:zoomplanner2020@gmail.com
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-RRULE:FREQ=WEEKLY;INTERVAL=1;BYDAY=;UNTIL=20201213T000000Z
 DTSTART:20080212
 DTEND:20080213
 DTSTAMP:20150421T141403
-URL:http://americanhistorycalendar.com/peoplecalendar/1,328-abraham-lincol
- n
+URL:http://americanhistorycalendar.com/peoplecalendar/1,328-abraham-lincoln
 END:VEVENT
 END:VCALENDAR

@@ -4,44 +4,32 @@ class CalendarMaker{
     endCal = "END:VCALENDAR"
 
     constructor() {
-        const fs = require('fs')
-        fs.writeFile('zoomplanner.ics', this.startCal, (err) => {
-            if (err) throw err;
-        })
+        this.writeCal(this.startCal);
         this.curTime = new Date();
     }
 
-    function addEvent(date, start, end, title, link) {
-        const fs = require('fs')
-        fs.writeFile('zoomplanner.ics', 'BEGIN:VEVENT', (err) => {
-            if (err) throw err;
-        })
-        fs.writeFile('zoomplanner.ics', 'SUMMARY:'+ title, (err) => {
-            if (err) throw err;
-        })
-        fs.writeFile('zoomplanner.ics', 'UID:zoomplanner2020@gmail.com' +
+    addEvent(date, start, end, title, link) {
+        this.writeCal('BEGIN:VEVENT');
+        this.writeCal('SUMMARY:'+ title);
+        this.writeCal('UID:zoomplanner2020@gmail.com' +
             '\mSEQUENCE:0' +
             '\nSTATUS:CONFIRMED' +
-            '\nTRANSP:TRANSPARENT', (err) => {
-            if (err) throw err;
-        })
-        fs.writeFile('zoomplanner.ics', 'DTSTART:'+ start, (err) => {
-            if (err) throw err;
-        })
-        fs.writeFile('zoomplanner.ics', 'DTSTART:'+ end, (err) => {
-            if (err) throw err;
-        })
-        fs.writeFile('zoomplanner.ics', 'DTSTAMP:'+ this.curTime.getDate(), (err) => {
-            if (err) throw err;
-        })
-        fs.writeFile('zoomplanner.ics', 'URL:'+ link, (err) => {
-            if (err) throw err;
-        })
+            '\nTRANSP:TRANSPARENT');
+        this.writeCal('DTSTART:'+ start);
+        this.writeCal('DTEND:'+ end);
+        this.writeCal('DTSTAMP:'+ this.curTime.getFullYear() + this.curTime.getMonth() + this.curTime.getDate() + "T000000");
+        this.writeCal('URL:'+ link);
+        this.writeCal('END:VEVENT');
     }
 
-    function finishCal() {
+    finishCal() {
+        this.writeCal(this.endCal);
+    }
+
+    // private helper method
+    writeCal(string) {
         const fs = require('fs')
-        fs.writeFile('zoomplanner.ics', this.endCal, (err) => {
+        fs.writeFile('zoomplanner.ics', string, (err) => {
             if (err) throw err;
         })
     }
