@@ -30,14 +30,16 @@ async function processFile(fileName) {
     let userDataArray = userData.split("BEGIN:VEVENT");
     // parses through the entire file by event and pulls out ones with zoom links
     for (let i = 1; i < userDataArray.length; i++) {
-        if (userDataArray[i].includes('washington.zoom.us')) {
+        if (userDataArray[i].includes('zoom.us')) {
+            zoomEntries += userDataArray[i] + '***';
+            /*
             let eventArray = userDataArray[i].split('\n');
             const dtstart = processDate(eventArray[3]);
             //console.log(dtstart);
             const dtend = processDate(eventArray[4]);
-            zoomEntries += userDataArray[i] + '***';
+
             //console.log(dtend);
-            /*
+
             for (let j = 0; j < myUWData.length; j++) {
                 let time = myUWData[j].time;
                 let days = myUWData[j].days;
@@ -150,7 +152,7 @@ async function processZoomEntries(fileName) {
     }
     finishCalendar(caltext);
 }
-processZoomEntries('testCal.ics');
+processZoomEntries('user_pXLxAiHUJK4Bgb3PF4oAzbyS4OtUs2PkVVu7cKWb (1).ics');
 //console.log(zoomEntries);
 
 
