@@ -1,37 +1,39 @@
+const fs = require('fs');
 
-class CalendarMaker{
-    startCal = "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//ZoomPlanner-2020\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH"
-    endCal = "END:VCALENDAR"
-    constructor() {
-        this.writeCal(this.startCal);
-        this.curTime = new Date();
-    }
-
-    addEvent(date, start, end, title, link) {
-        this.writeCal('BEGIN:VEVENT');
-        this.writeCal('SUMMARY:'+ title);
-        this.writeCal('UID:zoomplanner2020@gmail.com' +
-            '\mSEQUENCE:0' +
-            '\nSTATUS:CONFIRMED' +
-            '\nTRANSP:TRANSPARENT');
-        this.writeCal('DTSTART:'+ start);
-        this.writeCal('DTEND:'+ end);
-        this.writeCal('DTSTAMP:'+ this.curTime.getFullYear() + this.curTime.getMonth() + this.curTime.getDate() + "T000000");
-        this.writeCal('URL:'+ link);
-        this.writeCal('END:VEVENT');
-    }
-
-    finishCal() {
-        this.writeCal(this.endCal);
-    }
-
-    // private helper method
-    writeCal(string) {
-        const fs = require('fs')
-        fs.writeFile('zoomplanner.ics', string, (err) => {
-            if (err) throw err;
-        })
-    }
+function makeCalendar() {
+    const startCal = "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//ZoomPlanner-2020\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\n";
+    return startCal;
 }
 
-export default CalendarMaker;
+function addEvent(title, date, start, end, link) {
+    const curTime = new Date();
+    let eventText = 'BEGIN:VEVENT\n';
+    eventText +=  'SUMMARY:'+ title + '\n';
+    eventText += 'UID:' + Date.now() + 'zoomplanner2020@gmail.com' +
+        '\nSEQUENCE:0' +
+        '\nSTATUS:CONFIRMED' +
+        '\nTRANSP:TRANSPARENT\n';
+    eventText += 'DTSTART:'+ date + start + '\n';
+    eventText += 'DTEND:'+ date + end + '\n';
+
+    let month = curTime.getMonth();
+    if (month < 10) {
+        month = '0' + month;
+    }
+    eventText += 'DTSTAMP:'+ curTime.getFullYear() + month + curTime.getDate() + "T000000\n";
+
+    eventText += 'URL:'+ link + '\n';
+    eventText += 'END:VEVENT\n';
+    return eventText;
+}
+
+function finishCalendar(caltext) {
+    caltext += "END:VCALENDAR";
+    fs.writeFile('zoomplanner.ics', caltext, (err) => {
+        if (err) throw err;
+    })
+}
+let caltext = makeCalendar();
+caltext += addEvent('tester', '20201017', 'T060000', 'T070000', 'zoom.us');
+caltext += addEvent('tester2', '20201017', 'T073000', 'T083000', 'zoom.us');
+finishCalendar(caltext);
