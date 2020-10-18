@@ -139,8 +139,6 @@ async function processZoomEntries(fileName, myUWData) {
     }
     return finishCalendar(caltext, fileName);
 }
-// processZoomEntries("C:\\Users\\David Corbo\\Desktop\\zoom_planner\\serve\\1torqd.ics", JSON.parse('[{"title":"CSE 373 A","time":"3:30 – 4:20PM","days":["M","W","F"]},{"title":"CSE 373 AB","time":"10:30 – 11:20AM","days":["Th"]},{"title":"CSE 414 C","time":"12:30 – 1:20PM","days":["M","W","F"]},{"title":"CSE 414 CB","time":"9:30 – 10:20AM","days":["Th"]},{"title":"CSE 492 J","time":"12:30 – 1:20PM","days":["T"]},{"title":"MATH 324 C","time":"2:30 – 3:20PM","days":["M","W","F"]},{"title":"PHYS 122 B","time":"11:30 – 12:20PM","days":["M","W","F"]},{"title":"PHYS 122 B","time":"11:30 – 12:20PM","days":["Th"]},{"title":"PHYS 122 BD","time":"3:30 – 4:20PM","days":["T"]}]'));
-// processZoomEntries("serve/zwz618.ics", JSON.parse('[{"title":"CSE 373 A","time":"3:30 – 4:20PM","days":["M","W","F"]},{"title":"CSE 373 AB","time":"10:30 – 11:20AM","days":["Th"]},{"title":"CSE 414 C","time":"12:30 – 1:20PM","days":["M","W","F"]},{"title":"CSE 414 CB","time":"9:30 – 10:20AM","days":["Th"]},{"title":"CSE 492 J","time":"12:30 – 1:20PM","days":["T"]},{"title":"MATH 324 C","time":"2:30 – 3:20PM","days":["M","W","F"]},{"title":"PHYS 122 B","time":"11:30 – 12:20PM","days":["M","W","F"]},{"title":"PHYS 122 B","time":"11:30 – 12:20PM","days":["Th"]},{"title":"PHYS 122 BD","time":"3:30 – 4:20PM","days":["T"]}]'));
 
 module.exports = processZoomEntries;
 
