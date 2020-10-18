@@ -19,6 +19,7 @@ app.get('/', (req, res) => {
 app.post('/getcal', async (req, res) => {
     var username = req.body.username;
     var password = req.body.password;
+    console.log("trying to log in with " + username)
     try {
         var parsed = await login(username, password);
     } catch(e) {

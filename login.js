@@ -1,11 +1,10 @@
 const puppeteer = require('puppeteer');
-const c = require('./c');
+// const c = require('./c');
 const fs = require('fs');
 const myuw = require('./myuw.json');
 const https = require('https');
-const { password } = require('./c');
 
-async function classesFromMyUW() {
+async function classesFromMyUW(username, password) {
     const browser = await puppeteer.launch({
         headless: true,
         slowMo: 10,
@@ -26,9 +25,9 @@ async function classesFromMyUW() {
     const SUBMIT_SELECTOR = '#submit_button';
     await page.waitForSelector(USERNAME_SELECTOR);
     await page.click(USERNAME_SELECTOR);
-    await page.keyboard.type(c.username);
+    await page.keyboard.type(username);
     await page.click(PASSWORD_SELECTOR);
-    await page.keyboard.type(c.password);
+    await page.keyboard.type(password);
     await page.click(SUBMIT_SELECTOR);
 
     const ACADEMICS_SELECTOR = '[href="/academics/"]';
@@ -80,7 +79,7 @@ async function classesFromMyUW() {
 }
 
 
-async function getCalendar(courses) {
+async function getCalendar(courses, username, password) {
     // setup
     const browser = await puppeteer.launch({
         headless: true,
@@ -107,9 +106,9 @@ async function getCalendar(courses) {
     const SUBMIT_SELECTOR = '#submit_button';
     await page.waitForSelector(USERNAME_SELECTOR);
     await page.click(USERNAME_SELECTOR);
-    await page.keyboard.type(c.username);
+    await page.keyboard.type(username);
     await page.click(PASSWORD_SELECTOR);
-    await page.keyboard.type(c.password);
+    await page.keyboard.type(password);
     await page.click(SUBMIT_SELECTOR);
 
     // to calendar
@@ -175,8 +174,8 @@ async function getCalendar(courses) {
 }
 
 const main = async (username, password) => {
-    let courseList = await classesFromMyUW();
-    let calendar = await getCalendar(courseList);
+    let courseList = await classesFromMyUW(username, password);
+    let calendar = await getCalendar(courseList, username, password);
     return [courseList, calendar];
 }
 

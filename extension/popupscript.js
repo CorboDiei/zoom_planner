@@ -9,8 +9,8 @@ function submitF() {
     $('#error-div').removeClass("show").addClass("invis");
     $("#login-form").removeClass("show").addClass("invis");
     data = {
-        username: $('#username').value,
-        password: $('#password').value
+        username: $('#username').val(),
+        password: $('#password').val()
     }
     $.post(postURL, data, async res => {
         console.log(res);

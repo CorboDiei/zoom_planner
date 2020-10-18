@@ -48,6 +48,7 @@ async function processFile(fileName, myUWData) {
                     let ts = makeTimeString(dtstart, dtend);
                     ts = ts.split(' ')[0];
                     time = time.split(' ')[0];
+                    console.log(ts, time);
                     if (ts.localeCompare(time) === 0) {
                         //if both work, add to zoom entries
                         zoomEntries += userDataArray[i] + '***';
