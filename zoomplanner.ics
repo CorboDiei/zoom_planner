@@ -77,42 +77,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20201001T021200Z
-UID:event-calendar-event-1687491
-DTSTART:20201001T153000Z
-DTEND:20201001T164500Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 4153 8686] (https://washin
- gton.zoom.us/j/92641538686)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 Section CA [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=10
- &year=2020#calendar_event_1687491
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92641
- 538686" target="_blank">Click here to join Zoom Meeting:926 4153 8686</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T192700Z
-UID:event-calendar-event-1660868
-DTSTART:20201001T153000Z
-DTEND:20201001T163000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:981 3727 0618] (https://washin
- gton.zoom.us/j/98137270618)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AG [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1660868
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98137
- 270618" target="_blank">Click here to join Zoom Meeting:981 3727 0618</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200929T213800Z
 UID:event-calendar-event-1664165
 DTSTART:20201001T163000Z
@@ -164,215 +128,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/93959
  060106" target="_blank">Click here to join Zoom Meeting:939 5906 0106</a><
  /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20201001T092000Z
-UID:event-calendar-event-1690311
-DTSTART:20201001T193000Z
-DTEND:20201001T203000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:347 185 1524] (https://washing
- ton.zoom.us/j/3471851524)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 Section CC [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=10
- &year=2020#calendar_event_1690311
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/34718
- 51524" target="_blank">Click here to join Zoom Meeting:347 185 1524</a></p
- >
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200928T042900Z
-UID:event-calendar-event-1639801
-DTSTART:20201001T193000Z
-DTEND:20201001T203000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:932 7958 5088] (https://washin
- gton.zoom.us/j/93279585088)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 492 J: First Class Meeting [CSE 492 J]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396799&month=10
- &year=2020#calendar_event_1639801
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/93279
- 585088" target="_blank">Click here to join Zoom Meeting:932 7958 5088</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T172900Z
-UID:event-calendar-event-1658321
-DTSTART:20201001T193000Z
-DTEND:20201001T203000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:910 6136 2394] (https://washin
- gton.zoom.us/j/91061362394)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AD [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1658321
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/91061
- 362394" target="_blank">Click here to join Zoom Meeting:910 6136 2394</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T204200Z
-UID:event-calendar-event-1662426
-DTSTART:20201001T213000Z
-DTEND:20201001T223000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:988 5822 3129] (https://washin
- gton.zoom.us/j/98858223129)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AE [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1662426
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98858
- 223129" target="_blank">Click here to join Zoom Meeting:988 5822 3129</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T205600Z
-UID:event-calendar-event-1682280
-DTSTART:20201001T223000Z
-DTEND:20201001T233000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:943 5468 2227] (https://washin
- gton.zoom.us/j/94354682227)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AF [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1682280
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/94354
- 682227" target="_blank">Click here to join Zoom Meeting:943 5468 2227</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T212400Z
-UID:event-calendar-event-1682750
-DTSTART:20201001T223000Z
-DTEND:20201001T233000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:978 7096 7799] (https://washin
- gton.zoom.us/j/97870967799)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AI [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1682750
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97870
- 967799" target="_blank">Click here to join Zoom Meeting:978 7096 7799</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20201001T002100Z
-UID:event-calendar-event-1686264
-DTSTART:20201001T230000Z
-DTEND:20201002T000000Z
-CLASS:PUBLIC
-DESCRIPTION:Phi Sigma Rho is a social sorority of womxn in engineering and 
- engineering technology. We emphasize friendship\, scholarship\, and encour
- agement\, and provide a supportive community for women who are typically u
- nderrepresented in STEM fields. Our sisters reach the highest standard of 
- integrity\, strive for academic excellence\, and build friendships that la
- st a lifetime. If you would like to learn more of what our sisterhood is a
- ll about\, please come to one of our information sessions during Dawg Daze
-  for answers to all of your questions and for a chance to meet some of the
-  sisters! Additionally\, to receive the most up to date information about 
- our recruitment events\, please fill out this google form: [https://forms
- .gle/MNH7mechUXZ6Wgte7 (Links to an external site.)] (https://forms.gle/M
- NH7mechUXZ6Wgte7) \n\n \n\nInformation Session - September 29th from 11:
- 00am-12:00pm\, [https://washington.zoom.us/j/92983184452 (Links to an ex
- ternal site.)] (https://washington.zoom.us/j/92983184452) \n\nInformation
-  Session - October 1st from 4:00-5:00 pm\,\n\n[https://washington.zoom.us/
- j/94087217544 (Links to an external site.)] (https://washington.zoom.us/j
- /94087217544) \n\n \n\nAttached below is the Phi Sigma Rho recruitment s
- chedule!\n\n \n\nhttps://lh4.googleusercontent.com/nWeC5HnHLLrRma89Nj2k4B
- ZNIgS44yA6szQ3CBxNcpzoSGKbADhyk72NG_hgTUS-GggyiSe8MyGnH1TqfXuWFb6R0BQ4xipG
- OoR_TneEP1FfUy5RYb0UcPHj3qm2Gdbnf-J0dzVb\n\n \n\nFor the most up to date 
- information\, check us out on:\n\nWebsite: [https://www.uwphisigmarho.com
- / (Links to an external site.)] (https://www.uwphisigmarho.com/)\n\nInsta
- gram: [https://www.instagram.com/uwphisigmarho/ (Links to an external si
- te.)] (https://www.instagram.com/uwphisigmarho/)\n\nFacebook: [https://ww
- w.facebook.com/uwphisigmarho/ (Links to an external site.)] (https://www.
- facebook.com/uwphisigmarho/)\n\n \n\nWe look forward to meeting you\, and
-  please contact Sara Gustafson\, our VP of Membership\, at [phirho.uw.rec
- ruitment@gmail.com] (mailto:phirho.uw.recruitment@gmail.com) if you have 
- any questions!
-LOCATION:https://washington.zoom.us/j/94087217544
-SEQUENCE:0
-SUMMARY:Phi Sigma Rho Info Session  [Engineering Undeclared Advising]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1362236&month=10
- &year=2020#calendar_event_1686264
-X-ALT-DESC;FMTTYPE=text/html:<p dir="ltr"><span>Phi Sigma Rho is a social s
- orority of womxn in engineering and engineering technology. We emphasize f
- riendship\, scholarship\, and encouragement\, and provide a supportive com
- munity for women who are typically underrepresented in STEM fields. Our si
- sters reach the highest standard of integrity\, strive for academic excell
- ence\, and build friendships that last a lifetime. If you would like to le
- arn more of what our sisterhood is all about\, please come to one of our i
- nformation sessions during Dawg Daze for answers to all of your questions 
- and for a chance to meet some of the sisters! Additionally\, to receive th
- e most up to date information about our recruitment events\, please fill o
- ut this google form: </span><a class="external" href="https://forms.gle/M
- NH7mechUXZ6Wgte7" target="_blank" data-saferedirecturl="https://www.google
- .com/url?q=https://forms.gle/MNH7mechUXZ6Wgte7&amp\;source=gmail&amp\;ust=
- 1600185643899000&amp\;usg=AFQjCNGxQC0i9rRJwnqTJMWrSdvo4ayswA"><span>https:
- //forms.gle/MNH7mechUXZ6Wgte7</span><span class="screenreader-only"> (Lin
- ks to an external site.)</span></a><span> </span></p>\n<p dir="ltr"><span
- > </span></p>\n<p dir="ltr"><span>Information Session - September 29th fr
- om 11:00am-12:00pm\, </span><a class="external" href="https://washington.
- zoom.us/j/92983184452" target="_blank" data-saferedirecturl="https://www.g
- oogle.com/url?q=https://washington.zoom.us/j/92983184452&amp\;source=gmail
- &amp\;ust=1600185643899000&amp\;usg=AFQjCNHILotO0ypCaHkPepX6uXXUQhZhGw"><s
- pan>https://washington.zoom.us/j/92983184452</span><span class="screenread
- er-only"> (Links to an external site.)</span></a><span> </span></p>\n<p 
- dir="ltr"><span>Information Session - October 1st from 4:00-5:00 pm\,</spa
- n></p>\n<p dir="ltr"><a class="external" href="https://washington.zoom.us/
- j/94087217544" target="_blank" data-saferedirecturl="https://www.google.co
- m/url?q=https://washington.zoom.us/j/94087217544&amp\;source=gmail&amp\;us
- t=1600185643899000&amp\;usg=AFQjCNGnHAWQ7FzaDG4UcFmydLTq7XPiLw"><span>http
- s://washington.zoom.us/j/94087217544</span><span class="screenreader-only"
- > (Links to an external site.)</span></a><span> </span></p>\n<p> </p>\n
- <p dir="ltr"><span>Attached below is the Phi Sigma Rho recruitment schedul
- e!</span></p>\n<p dir="ltr"><span> </span></p>\n<p dir="ltr"><span><img c
- lass="CToWUd a6T" src="https://lh4.googleusercontent.com/nWeC5HnHLLrRma89N
- j2k4BZNIgS44yA6szQ3CBxNcpzoSGKbADhyk72NG_hgTUS-GggyiSe8MyGnH1TqfXuWFb6R0BQ
- 4xipGOoR_TneEP1FfUy5RYb0UcPHj3qm2Gdbnf-J0dzVb" width="354" height="236"></
- span></p>\n<p><span> </span></p>\n<p dir="ltr"><span>For the most up to d
- ate information\, check us out on:</span></p>\n<p dir="ltr"><span>Website:
-  </span><a class="external" href="https://www.uwphisigmarho.com/" target=
- "_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.uw
- phisigmarho.com/&amp\;source=gmail&amp\;ust=1600185643899000&amp\;usg=AFQj
- CNF_tqa__7oKECdSe0f6IBtnJENxfQ"><span>https://www.uwphisigmarho.com/</span
- ><span class="screenreader-only"> (Links to an external site.)</span></a>
- </p>\n<p dir="ltr"><span>Instagram:</span><span> </span><a class="externa
- l" href="https://www.instagram.com/uwphisigmarho/" target="_blank" data-sa
- feredirecturl="https://www.google.com/url?q=https://www.instagram.com/uwph
- isigmarho/&amp\;source=gmail&amp\;ust=1600185643899000&amp\;usg=AFQjCNFAL4
- a_niAdVLWmRizqxdKQ5smDRQ"><span>https://www.instagram.com/uwphisigmarho/</
- span><span class="screenreader-only"> (Links to an external site.)</span>
- </a></p>\n<p dir="ltr"><span>Facebook:</span><span> </span><a class="exte
- rnal" href="https://www.facebook.com/uwphisigmarho/" target="_blank" data-
- saferedirecturl="https://www.google.com/url?q=https://www.facebook.com/uwp
- hisigmarho/&amp\;source=gmail&amp\;ust=1600185643899000&amp\;usg=AFQjCNGp5
- pliWpc-9YWQhzfu_PF-DAgSVw"><span>https://www.facebook.com/uwphisigmarho/</
- span><span class="screenreader-only"> (Links to an external site.)</span>
- </a></p>\n<p><span> </span></p>\n<p dir="ltr"><span>We look forward to me
- eting you\, and please contact Sara Gustafson\, our VP of Membership\, at
-  </span><span><a href="mailto:phirho.uw.recruitment@gmail.com" target="_b
- lank">phirho.uw.recruitment@gmail.com</a></span><span> if you have any qu
- estions!</span></p>
 END:VEVENT
 BEGIN:VEVENT
 
@@ -520,47 +275,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/95385
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20201001T003200Z
-UID:event-calendar-event-1686311
-DTSTART:20201007T003000Z
-DTEND:20201007T013000Z
-CLASS:PUBLIC
-DESCRIPTION:Students who attend will be able to hear about the different su
- b-committees that exist\, and the roles you can take on in the RSO. As a r
- eminder\, students do not need to be a mechanical engineering student (or 
- even intended ME) to join. ASME can help students build an engineering res
- ume and learn soft skills used in any engineering discipline. Additionally
- \, if students cannot make it but want to learn more\, they are welcome to
-  email us at [ASME@uw.edu] (mailto:ASME@uw.edu).
-LOCATION:https://washington.zoom.us/j/98193809190
-SEQUENCE:0
-SUMMARY:ASME First General Meeting  [Engineering Undeclared Advising]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1362236&month=10
- &year=2020#calendar_event_1686311
-X-ALT-DESC;FMTTYPE=text/html:<p>Students who attend will be able to hear ab
- out the different sub-committees that exist\, and the roles you can take o
- n in the RSO. As a reminder\, students do not need to be a mechanical engi
- neering student (or even intended ME) to join. ASME can help students buil
- d an engineering resume and learn soft skills used in any engineering disc
- ipline. Additionally\, if students cannot make it but want to learn more\,
-  they are welcome to email us at <a href="mailto:ASME@uw.edu">ASME@uw.edu<
- /a>.</p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20201012T171800Z
-UID:event-calendar-event-1724860
-DTSTART:20201007T010000Z
-DTEND:20201007T020000Z
-CLASS:PUBLIC
-LOCATION:https://washington.zoom.us/j/96218316895
-SEQUENCE:0
-SUMMARY:SEBA Info Session  [Engineering Undeclared Advising]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1362236&month=10
- &year=2020#calendar_event_1724860
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200928T200800Z
 UID:event-calendar-event-1646494
 DTSTART:20201007T183000Z
@@ -629,119 +343,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
  &year=2020#calendar_event_1672568
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
  955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20201001T002700Z
-UID:event-calendar-event-1686282
-DTSTART:20201008T000000Z
-DTEND:20201008T010000Z
-CLASS:PUBLIC
-DESCRIPTION:Concrete Canoe is a student-run organization at the University 
- of Washington that designs\, builds and races concrete canoes to compete i
- n the American Society of Civil Engineers (ASCE) Concrete Canoe Competitio
- n. We provide students with opportunities to learn about construction mana
- gement\, concrete mix design\, and structural analysis. The club is open t
- o everyone year-round\, and no application is necessary.
-LOCATION:https://washington.zoom.us/j/98925726656
-SEQUENCE:0
-SUMMARY:Concrete Canoe First General Meeting  [Engineering Undeclared Advis
- ing]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1362236&month=10
- &year=2020#calendar_event_1686282
-X-ALT-DESC;FMTTYPE=text/html:<p><span style="font-weight: 400\;">Concrete C
- anoe is a student-run organization at the University of Washington that de
- signs\, builds and races concrete canoes to compete in the American Societ
- y of Civil Engineers (ASCE) Concrete Canoe Competition. We provide student
- s with opportunities to learn about construction management\, concrete mix
-  design\, and structural analysis. The club is open to everyone year-round
- \, and no application is necessary.</span></p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20201012T171900Z
-UID:event-calendar-event-1724864
-DTSTART:20201008T010000Z
-DTEND:20201008T020000Z
-CLASS:PUBLIC
-DESCRIPTION:We are Batman’s Kitchen\, the UW cybersecurity group\, and we
-  are looking for new members!\n\nInterested in learning about security iss
- ues or being part of a competition team?  We hold regular meetings\, lear
- n about the latest security topics\, build/hack/break stuff\, and compete 
- in CTF competitions throughout the year.  No prior experience needed to j
- oin the team -- all you need is an interest in security and/or CTFs plus a
-  willingness to learn.  Our group is an interdisciplinary group of studen
- ts from CSE\, ECE\, iSchool\, Business\, Political Science\, and many othe
- r UW departments.  We collaborate with organizations/companies in the Sea
- ttle area.  Our CTF team has been in the top 1% of all (10\,000+) teams i
- n the world for the last six years.\n\nOur Info Meeting is next Wednesday\
- , October 7th\, at 6:00pm.  We welcome everyone.  At the Info Meeting we
- 'll talk about the topics we'll cover in the coming year (e.g.\, IoT\, pri
- vacy\, lockpicking\, cryptography\, etc.)\, the type of competitions we do
- \, workshops\, local security groups\, and Puget Sound resources.  The li
- nk for the meeting is:  https://washington.zoom.us/j/92453672588?pwd=WEtj
- QmJ0MGNGUWZwcURtbEY5eWwyUT09. 
-LOCATION:https://washington.zoom.us/j/92453672588?pwd=WEtjQmJ0MGNGUWZwcURtb
- EY5eWwyUT09. 
-SEQUENCE:0
-SUMMARY:Batman's Kitchen Info Meeting  [Engineering Undeclared Advising]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1362236&month=10
- &year=2020#calendar_event_1724864
-X-ALT-DESC;FMTTYPE=text/html:<p>We are Batman’s Kitchen\, the UW cybersec
- urity group\, and we are looking for new members!<br><br>Interested in lea
- rning about security issues or being part of a competition team?  We hold
-  regular meetings\, learn about the latest security topics\, build/hack/br
- eak stuff\, and compete in CTF competitions throughout the year.  No prio
- r experience needed to join the team -- all you need is an interest in sec
- urity and/or CTFs plus a willingness to learn.  Our group is an interdisc
- iplinary group of students from CSE\, ECE\, iSchool\, Business\, Political
-  Science\, and many other UW departments.  We collaborate with organizati
- ons/companies in the Seattle area.  Our CTF team has been in the top 1% o
- f all (10\,000+) teams in the world for the last six years.<br><br>Our Inf
- o Meeting is next Wednesday\, October 7th\, at 6:00pm.  We welcome everyo
- ne.  At the Info Meeting we'll talk about the topics we'll cover in the c
- oming year (e.g.\, IoT\, privacy\, lockpicking\, cryptography\, etc.)\, th
- e type of competitions we do\, workshops\, local security groups\, and Pug
- et Sound resources.  The link for the meeting is:  <a href="https://wash
- ington.zoom.us/j/92453672588?pwd=WEtjQmJ0MGNGUWZwcURtbEY5eWwyUT09">https:/
- /washington.zoom.us/j/92453672588?pwd=WEtjQmJ0MGNGUWZwcURtbEY5eWwyUT09</a>
- . </p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20201001T021200Z
-UID:event-calendar-event-1687492
-DTSTART:20201008T153000Z
-DTEND:20201008T164500Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 4153 8686] (https://washin
- gton.zoom.us/j/92641538686)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 Section CA [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=10
- &year=2020#calendar_event_1687492
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92641
- 538686" target="_blank">Click here to join Zoom Meeting:926 4153 8686</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T192700Z
-UID:event-calendar-event-1660869
-DTSTART:20201008T153000Z
-DTEND:20201008T163000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:981 3727 0618] (https://washin
- gton.zoom.us/j/98137270618)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AG [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1660869
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98137
- 270618" target="_blank">Click here to join Zoom Meeting:981 3727 0618</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -815,131 +416,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/93959
  060106" target="_blank">Click here to join Zoom Meeting:939 5906 0106</a><
  /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T172900Z
-UID:event-calendar-event-1658322
-DTSTART:20201008T193000Z
-DTEND:20201008T203000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:910 6136 2394] (https://washin
- gton.zoom.us/j/91061362394)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AD [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1658322
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/91061
- 362394" target="_blank">Click here to join Zoom Meeting:910 6136 2394</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T204200Z
-UID:event-calendar-event-1662427
-DTSTART:20201008T213000Z
-DTEND:20201008T223000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:988 5822 3129] (https://washin
- gton.zoom.us/j/98858223129)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AE [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1662427
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98858
- 223129" target="_blank">Click here to join Zoom Meeting:988 5822 3129</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T205600Z
-UID:event-calendar-event-1682281
-DTSTART:20201008T223000Z
-DTEND:20201008T233000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:943 5468 2227] (https://washin
- gton.zoom.us/j/94354682227)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AF [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1682281
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/94354
- 682227" target="_blank">Click here to join Zoom Meeting:943 5468 2227</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T212400Z
-UID:event-calendar-event-1682751
-DTSTART:20201008T223000Z
-DTEND:20201008T233000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:978 7096 7799] (https://washin
- gton.zoom.us/j/97870967799)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AI [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1682751
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97870
- 967799" target="_blank">Click here to join Zoom Meeting:978 7096 7799</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20201012T171800Z
-UID:event-calendar-event-1724861
-DTSTART:20201008T233000Z
-DTEND:20201009T003000Z
-CLASS:PUBLIC
-LOCATION:https://washington.zoom.us/j/96629024936
-SEQUENCE:0
-SUMMARY:SEBA Info Session  [Engineering Undeclared Advising]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1362236&month=10
- &year=2020#calendar_event_1724861
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20201012T172500Z
-UID:event-calendar-event-1724875
-DTSTART:20201009T010000Z
-DTEND:20201009T010000Z
-CLASS:PUBLIC
-DESCRIPTION:We hope that you all have had a smooth transition into online l
- earning. Now that we are getting into the swing of things\, don’t forget
-  that the [Science and Engineering Career Fair] (https://www.uwseba.com/in
- formation-for-students) is just around the corner! \n\n \n\nASME at UW i
- s putting on an event to help prepare students for virtual one-on-one and 
- group interviews by hosting a Mock Interview session over [Zoom] (https://
- washington.zoom.us/j/92304974712)on Thursday\, October 8th at 6pm. The Zoo
- m Meeting ID is: 923 0497 4712. We hope to see you there\, and all student
- s are welcome to join!\n\n \n\nIf you do plan on attending\, please [RSVP
- ] (https://forms.gle/TyFt1xbP8j1DWFteA)\; by completing this form\, ASME w
- ill do our best to match and create breakout rooms beforehand that are ali
- gned with your preferences. However\, we will still welcome students who d
- rop in. 
-LOCATION:
-SEQUENCE:0
-SUMMARY:ASME Mock Interview Workshop  [Engineering Undeclared Advising]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1362236&month=10
- &year=2020#calendar_event_1724875
-X-ALT-DESC;FMTTYPE=text/html:<p>We hope that you all have had a smooth tran
- sition into online learning. Now that we are getting into the swing of thi
- ngs\, don’t forget that the <a href="https://www.uwseba.com/information-
- for-students">Science and Engineering Career Fair</a> is just around the c
- orner! </p>\n<p> </p>\n<p>ASME at UW is putting on an event to help prep
- are students for virtual one-on-one and group interviews by hosting a Mock
-  Interview session over <a href="https://washington.zoom.us/j/92304974712"
- >Zoom</a>on Thursday\, October 8th at 6pm. The Zoom Meeting ID is: 923 049
- 7 4712. We hope to see you there\, and all students are welcome to join!</
- p>\n<p> </p>\n<p>If you do plan on attending\, please <a href="https://fo
- rms.gle/TyFt1xbP8j1DWFteA">RSVP</a>\; by completing this form\, ASME will 
- do our best to match and create breakout rooms beforehand that are aligned
-  with your preferences. However\, we will still welcome students who drop 
- in. </p>
 END:VEVENT
 BEGIN:VEVENT
 
@@ -1069,104 +545,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20201012T175400Z
-UID:event-calendar-event-1724943
-DTSTART:20201012T233000Z
-DTEND:20201012T233000Z
-CLASS:PUBLIC
-DESCRIPTION:Do you want to meet College of Engineering students interested 
- in structural change and keeping up the momentum from racial justice prote
- sts?\n\n \n\nThen join the CEE Action Planning group (CAP) at it's Fall Q
- uarter Kickoff on Monday\, October 12 at 4:30pm. The first half hour will 
- be more of an informal mixer and we'll spend time getting to know new peop
- le and catching up with returning members. At 5pm\, Associate Dean of Acad
- emic Affairs\, Dan Ratner\, is planning to join and give an overview (see 
- outline below) of what the efforts at the College of Engineering look like
- .\n\n \n\nThe kickoff meeting is open to all students and post-docs in th
- e College of Engineering. This will be a free-flowing event\, so come and
-  join for whichever part(s) you like. Join the zoom meeting [here] (https:
- //washington.zoom.us/j/92844199631?pwd=Y2V1UXFQMU1zQlJZbWsydGtaWG4xZz09).\
- n\n \n\nWondering what CAP is? \n\nCAP is an informal\, self-organized s
- tudent and post-doc group that began in Civil and Environmental Engineerin
- g (CEE) that wants to ensure that the momentum from recent protests for ju
- stice and renewed attention to the anti-racism movement would not be lost.
-  We meet every two weeks to discuss how we can ensure that our department 
- and the College of Engineering will enact tangible\, substantive actions t
- o make structural changes in our immediate spheres. \n\n \n\nWe are also
-  the primary point of contact for the [undergrad-led petition] (https://do
- cs.google.com/document/d/17TS-MNWIyRQaEx9riXcvJjbngxO85ojhX4quc2HkeIE/edit
- ?fbclid=IwAR0jpPMoXqHHB-Df8HhUai9UESFMIGeaiaUH93oAoxoRV-Ct4j9taQYirSo) tha
- t is working to sustain pressure on CEE to properly address and follow thr
- ough with petition items. The petition was delivered in June and has accum
- ulated more than 370 signatures of students\, staff\, faculty and alumni o
- f CEE. If you haven’t signed the petition yet\, it’s still open for yo
- ur support!\n\n \n\nContact us at ([uw.cee.action@gmail.com] (mailto:uw.c
- ee.action@gmail.com)) if you have any questions\, would like to join the l
- istserv\, or would like to get more involved with CAP.\n\n \n\nHope to se
- e you on Monday!\n\nThe CAP team\n\n \n\nTLDR\n\nWho: Students in CoE int
- erested in structural change efforts in CoE\n\nWhat: CAP Fall Quarter Kick
- off\n\nWhen: 4:30pm on Monday\, October 12\n\nWhere: [zoom link] (https://
- washington.zoom.us/j/92844199631?pwd=Y2V1UXFQMU1zQlJZbWsydGtaWG4xZz09) \n
- \n \n\nAD Dan Ratner's outline:\n\n* Update on discussions with AG’s of
- fice\n\n* Search for Associate Dean for Diversity\, Equity\, and Inclusion
-  update\n\n* College Bias Resources and Communications\n\n* Classroom Clim
- ate Assessment\n\n* EDDC agenda items – coordinating with departmental d
- iversity committees\n\n* Examples of Departmental Commitment work\n\n* SPH
- \n\n* BioE
-LOCATION:Zoom 
-SEQUENCE:0
-SUMMARY:CAP Fall Quarter Kickoff  [Engineering Undeclared Advising]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1362236&month=10
- &year=2020#calendar_event_1724943
-X-ALT-DESC;FMTTYPE=text/html:<p><strong><em>Do you want to meet College of 
- Engineering students interested in structural change and keeping up the mo
- mentum from racial justice protests? </em></strong></p>\n<p> </p>\n<p>The
- n join the CEE Action Planning group (CAP) at it's Fall Quarter Kickoff on
-  <strong>Monday\, October 12 at 4:30pm.</strong> The first half hour will 
- be more of an informal mixer and we'll spend time getting to know new peop
- le and catching up with returning members. At 5pm\, Associate Dean of Acad
- emic Affairs\, Dan Ratner\, is planning to join and give an overview (see 
- outline below) of what the efforts at the College of Engineering look like
- .</p>\n<p> </p>\n<p>The kickoff meeting is open to all students and post-
- docs in the College of Engineering. This will be a free-flowing event\, s
- o come and join for whichever part(s) you like. Join the zoom meeting <str
- ong><a href="https://washington.zoom.us/j/92844199631?pwd=Y2V1UXFQMU1zQlJZ
- bWsydGtaWG4xZz09">here</a>.</strong></p>\n<p> </p>\n<p><strong><em>Wonder
- ing what CAP is?</em></strong><em> </em></p>\n<p>CAP is an informal\, sel
- f-organized student and post-doc group that began in Civil and Environment
- al Engineering (CEE) that wants to ensure that the momentum from recent pr
- otests for justice and renewed attention to the anti-racism movement would
-  not be lost. We meet every two weeks to discuss how we can ensure that ou
- r department and the College of Engineering will enact tangible\, substant
- ive actions to make structural changes in our immediate spheres. </p>\n<p
- > </p>\n<p>We are also the primary point of contact for the <a href="http
- s://docs.google.com/document/d/17TS-MNWIyRQaEx9riXcvJjbngxO85ojhX4quc2HkeI
- E/edit?fbclid=IwAR0jpPMoXqHHB-Df8HhUai9UESFMIGeaiaUH93oAoxoRV-Ct4j9taQYirS
- o"><strong>undergrad-led petition</strong></a> that is working to sustain 
- pressure on CEE to properly address and follow through with petition items
- . The petition was delivered in June and has accumulated more than 370 sig
- natures of students\, staff\, faculty and alumni of CEE. If you haven’t 
- signed the petition yet\, it’s still open for your support!</p>\n<p> </
- p>\n<p>Contact us at (<a href="mailto:uw.cee.action@gmail.com"><em>uw.cee.
- action@gmail.com</em></a>) if you have any questions\, would like to join 
- the listserv\, or would like to get more involved with CAP.</p>\n<p> </p>
- \n<p>Hope to see you on Monday!</p>\n<p>The CAP team</p>\n<p> </p>\n<p><s
- trong><em>TLDR</em></strong></p>\n<p><strong>Who: </strong>Students in CoE
-  interested in structural change efforts in CoE</p>\n<p><strong>What: </st
- rong>CAP Fall Quarter Kickoff</p>\n<p><strong>When:</strong> 4:30pm on Mon
- day\, October 12</p>\n<p><strong>Where: </strong><a href="https://washingt
- on.zoom.us/j/92844199631?pwd=Y2V1UXFQMU1zQlJZbWsydGtaWG4xZz09">zoom link</
- a> </p>\n<p> </p>\n<p><em>AD Dan Ratner's outline:</em></p>\n<ul>\n<li><
- em>Update on discussions with AG’s office</em></li>\n<li><em>Search for 
- Associate Dean for Diversity\, Equity\, and Inclusion update</em></li>\n<l
- i><em>College Bias Resources and Communications</em></li>\n<li><em>Classro
- om Climate Assessment</em></li>\n<li><em>EDDC agenda items – coordinatin
- g with departmental diversity committees</em></li>\n<li><em>Examples of De
- partmental Commitment work</em></li>\n<ul>\n<li><em>SPH</em></li>\n<li><em
- >BioE</em></li>\n</ul>\n</ul>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200928T042800Z
 UID:event-calendar-event-1639803
 DTSTART:20201013T193000Z
@@ -1257,42 +635,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20201001T021200Z
-UID:event-calendar-event-1687493
-DTSTART:20201015T153000Z
-DTEND:20201015T164500Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 4153 8686] (https://washin
- gton.zoom.us/j/92641538686)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 Section CA [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=10
- &year=2020#calendar_event_1687493
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92641
- 538686" target="_blank">Click here to join Zoom Meeting:926 4153 8686</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T192700Z
-UID:event-calendar-event-1660870
-DTSTART:20201015T153000Z
-DTEND:20201015T163000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:981 3727 0618] (https://washin
- gton.zoom.us/j/98137270618)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AG [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1660870
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98137
- 270618" target="_blank">Click here to join Zoom Meeting:981 3727 0618</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20201001T173100Z
 UID:event-calendar-event-1692221
 DTSTART:20201015T163000Z
@@ -1361,96 +703,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
  &year=2020#calendar_event_1681795
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/93959
  060106" target="_blank">Click here to join Zoom Meeting:939 5906 0106</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20201001T173900Z
-UID:event-calendar-event-1692316
-DTSTART:20201015T193000Z
-DTEND:20201015T203000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:985 0402 6221] (https://washin
- gton.zoom.us/j/98504026221)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 492 J: Optional Thursday Workshop [CSE 492 J]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396799&month=10
- &year=2020#calendar_event_1692316
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98504
- 026221" target="_blank">Click here to join Zoom Meeting:985 0402 6221</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T172900Z
-UID:event-calendar-event-1658323
-DTSTART:20201015T193000Z
-DTEND:20201015T203000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:910 6136 2394] (https://washin
- gton.zoom.us/j/91061362394)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AD [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1658323
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/91061
- 362394" target="_blank">Click here to join Zoom Meeting:910 6136 2394</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T204200Z
-UID:event-calendar-event-1662428
-DTSTART:20201015T213000Z
-DTEND:20201015T223000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:988 5822 3129] (https://washin
- gton.zoom.us/j/98858223129)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AE [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1662428
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98858
- 223129" target="_blank">Click here to join Zoom Meeting:988 5822 3129</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T205600Z
-UID:event-calendar-event-1682282
-DTSTART:20201015T223000Z
-DTEND:20201015T233000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:943 5468 2227] (https://washin
- gton.zoom.us/j/94354682227)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AF [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1682282
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/94354
- 682227" target="_blank">Click here to join Zoom Meeting:943 5468 2227</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T212400Z
-UID:event-calendar-event-1682752
-DTSTART:20201015T223000Z
-DTEND:20201015T233000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:978 7096 7799] (https://washin
- gton.zoom.us/j/97870967799)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AI [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1682752
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97870
- 967799" target="_blank">Click here to join Zoom Meeting:978 7096 7799</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -1527,79 +779,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20201012T172200Z
-UID:event-calendar-event-1724872
-DTSTART:20201017T065900Z
-DTEND:20201017T065900Z
-CLASS:PUBLIC
-DESCRIPTION:Hello! My name is Peyton Lee\, and I would like to introduce th
- e Underwater Remotely Operated Vehicles Team or UWROV. We are a marine 
- science and engineering club that builds\, designs\, and operates underwa
- ter robots (ROVs) to compete in the international MATE competition!\n\n \
- n\nOur ROVs are built to meet the yearly MATE competition theme\, which si
- mulates real-life challenges in marine science and technology. This year's
-  theme includes tackling plastic pollution and ghost nets\, mapping coral 
- reefs for damage\, and imaging artificial reefs.\n\n \n\nWe're looking fo
- r students interested in marine science\, robotics\, engineering\, or busi
- ness to join us for the 2020-2021 competition season. We welcome students 
- of all skill and experience levels to apply at [uwrov.org/recruitment] (h
- ttp://uwrov.org/recruitment). Applications close on Friday\, October 16th
-  at 11:59 PM. \n\n \n\nIf you'd like to learn more about UWROV and how w
- e operate\, we will be hosting two Information Sessions on October 5th a
- nd 13th. They'll consist of a short presentation with plenty of time for q
- uestions. We'll be talking about the club's objectives and structure and h
- ow you can be a part of our 2020-2021 season.\n\nMonday\, Oct. 5th\, 5:00-
- 6:00 PM PST ([Google Calendar] (https://calendar.google.com/event?action=
- TEMPLATE&tmeid=M3FxbmQ3OG50cGQyNzc3NXI1anQ2b2dobmYgdXcuZWR1XzBraDIxNWYyZ2M
- 1ZGZiNzY2OTd0aDN0bGlnQGc&tmsrc=uw.edu_0kh215f2gc5dfb76697th3tlig%40group.c
- alendar.google.com)) ([Zoom] (https://washington.zoom.us/j/95558016715))\n
- \nTuesday\, Oct. 13th\, 6:00-7:00 PM PST ([Google Calendar] (https://cal
- endar.google.com/event?action=TEMPLATE&tmeid=NmZ1NmxyOGtxcGdlNzFuZzhhbWt1a
- WNwOHYgdXcuZWR1XzBraDIxNWYyZ2M1ZGZiNzY2OTd0aDN0bGlnQGc&tmsrc=uw.edu_0kh215
- f2gc5dfb76697th3tlig%40group.calendar.google.com)) ([Zoom] (https://washin
- gton.zoom.us/j/97179337396))\n\n \n\nThank you for your time\, and we hop
- e to hear from you soon!\n\n \n\nSincerely\,\n\nPeyton Lee\n\nUWROV Presi
- dent
-LOCATION:uwrov.org/recruitment
-SEQUENCE:0
-SUMMARY:UWROV App Deadline  [Engineering Undeclared Advising]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1362236&month=10
- &year=2020#calendar_event_1724872
-X-ALT-DESC;FMTTYPE=text/html:<p>Hello! My name is Peyton Lee\, and I would 
- like to introduce the<strong> Underwater Remotely Operated Vehicles Team<
- /strong> or<strong> UWROV</strong>. We are a marine science and engineer
- ing club that builds\, designs\, and operates underwater robots (ROVs) to
-  compete in the international MATE competition!</p>\n<p> </p>\n<p>Our ROV
- s are built to meet the yearly MATE competition theme\, which simulates re
- al-life challenges in marine science and technology. This year's theme inc
- ludes tackling plastic pollution and ghost nets\, mapping coral reefs for 
- damage\, and imaging artificial reefs.</p>\n<p> </p>\n<p>We're looking fo
- r students interested in marine science\, robotics\, engineering\, or busi
- ness to join us for the 2020-2021 competition season. We welcome students 
- of all skill and experience levels to apply at <a href="http://uwrov.org/
- recruitment">uwrov.org/recruitment</a>. Applications close on <strong>Fri
- day\, October 16th at 11:59 PM</strong>. </p>\n<p> </p>\n<p>If you'd lik
- e to learn more about UWROV and how we operate\, we will be hosting two <
- strong>Information Sessions</strong> on October 5th and 13th. They'll con
- sist of a short presentation with plenty of time for questions. We'll be t
- alking about the club's objectives and structure and how you can be a part
-  of our 2020-2021 season.</p>\n<p><strong>Monday\, Oct. 5th\, 5:00-6:00 PM
-  PST </strong>(<a href="https://calendar.google.com/event?action=TEMPLATE
- &amp\;tmeid=M3FxbmQ3OG50cGQyNzc3NXI1anQ2b2dobmYgdXcuZWR1XzBraDIxNWYyZ2M1ZG
- ZiNzY2OTd0aDN0bGlnQGc&amp\;tmsrc=uw.edu_0kh215f2gc5dfb76697th3tlig%40group
- .calendar.google.com">Google Calendar</a>) (<a href="https://washington.zo
- om.us/j/95558016715">Zoom</a>)</p>\n<p><strong>Tuesday\, Oct. 13th\,</stro
- ng> <strong>6:00-7:00 PM PST </strong>(<a href="https://calendar.google.
- com/event?action=TEMPLATE&amp\;tmeid=NmZ1NmxyOGtxcGdlNzFuZzhhbWt1aWNwOHYgd
- XcuZWR1XzBraDIxNWYyZ2M1ZGZiNzY2OTd0aDN0bGlnQGc&amp\;tmsrc=uw.edu_0kh215f2g
- c5dfb76697th3tlig%40group.calendar.google.com">Google Calendar</a>) (<a hr
- ef="https://washington.zoom.us/j/97179337396">Zoom</a>)</p>\n<p> </p>\n<p
- >Thank you for your time\, and we hope to hear from you soon!</p>\n<p> </
- p>\n<p>Sincerely\,</p>\n<p><strong>Peyton Lee</strong></p>\n<p><strong>UWR
- OV President</strong></p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200929T225000Z
 UID:event-calendar-event-1666062
 DTSTART:20201019T193000Z
@@ -1672,59 +851,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97789
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20201016T031200Z
-UID:event-assignment-5793901
-DTSTART:20201021T011500Z
-DTEND:20201021T011500Z
-CLASS:PUBLIC
-DESCRIPTION:This is a mock-up exam  to give idea about the actually exam o
- n Thursday Oct22. \n\nAlthough it states 52 point\, the mocu-up exam  gr
- ades are not included on the over all grades. Try to check the mockup exam
- \n\nWe will have a review on my office hours on Friday at 12:10 pm\, pleas
- e try to attend. I will  record the review.\n\nLink for review zoom meeti
- ng:\n\n[https://washington.zoom.us/j/96925145938 ] (https://washington.zoo
- m.us/j/96925145938)\n\nMidterm 1 is planned on October 22.You can start t
- he exam between 4:55pm and 5:15pm (PDT). Once you load the exam\, you will
-  have one hour to complete the exam.\n\nThe detailed exam procedure is out
- lined in the following website: https://phys.washington.edu/taking-exams\
- n\nTo give you a chance to practice and iron out the procedure\, we will g
- ive you a mock-up-exam. The mock-up-exam will become available on October 
- 15th from 4:55pm\, and you will have 60 minutes to complete once you open 
- the mock-up exam. The questions on the mock-up exams are not necessarily r
- epresentative of the actual exams. Your participation in the mock-up exam 
- will be awarded 2 points toward Lecture Discussion score.\n\nLet me kn
- ow if you have any questions. Use the inbox on canvas to send your questio
- ns during the exam .\n\nGoodluck\n\n 
-SEQUENCE:0
-SUMMARY:Mock-up exam 1 [PHYS 122 B]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1401579&month=10
- &year=2020#assignment_5793901
-X-ALT-DESC;FMTTYPE=text/html:<p>This is a mock-up exam  to give idea about
-  the actually exam on Thursday Oct22. </p>\n<p>Although it states 52 poin
- t\, the mocu-up exam  grades are not included on the over all grades. Try
-  to check the mockup exam</p>\n<p>We will have a review on my office hours
-  on Friday at 12:10 pm\, please try to attend. I will  record the review.
- </p>\n<p>Link for review zoom meeting:</p>\n<p><a class="external" href="h
- ttps://washington.zoom.us/j/96925145938" target="_blank"><span>https://was
- hington.zoom.us/j/96925145938</span> </a></p>\n<div>Midterm 1 is planned o
- n October <span>22</span>.You can start the exam between 4:55pm and 5:15p
- m (PDT). Once you load the exam\, you will have one hour to complete the e
- xam.</div>\n<div>The detailed exam procedure is outlined in the following 
- website: <a id="LPlnk720221" href="https://phys.washington.edu/taking-exa
- ms" target="_blank" data-auth="NotApplicable">https://phys.washington.edu/
- taking-exams</a>\n</div>\n<div>\n<div>To give you a chance to practice and
-  iron out the procedure\, we will give you a mock-up-exam. The mock-up-exa
- m will become available on October 15th from 4:55pm\, and you will have 60
-  minutes to complete once you open the mock-up exam. The questions on the 
- mock-up exams are not necessarily representative of the actual exams. Your
-  participation in the mock-up exam will be awarded<span> </span><span>2</
- span><span> </span>points toward<span> </span><span>Lecture Discussion</
- span><span> </span>score.</div>\n<div>Let me know if you have any questio
- ns. Use the inbox on canvas to send your questions during the exam .</div>
- \n<div>Goodluck</div>\n</div>\n<p> </p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200928T200800Z
 UID:event-calendar-event-1646498
 DTSTART:20201021T183000Z
@@ -1775,42 +901,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
  &year=2020#calendar_event_1672574
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
  955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20201001T021200Z
-UID:event-calendar-event-1687494
-DTSTART:20201022T153000Z
-DTEND:20201022T164500Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 4153 8686] (https://washin
- gton.zoom.us/j/92641538686)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 Section CA [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=10
- &year=2020#calendar_event_1687494
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92641
- 538686" target="_blank">Click here to join Zoom Meeting:926 4153 8686</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T192700Z
-UID:event-calendar-event-1660871
-DTSTART:20201022T153000Z
-DTEND:20201022T163000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:981 3727 0618] (https://washin
- gton.zoom.us/j/98137270618)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AG [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1660871
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98137
- 270618" target="_blank">Click here to join Zoom Meeting:981 3727 0618</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -1883,96 +973,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
  &year=2020#calendar_event_1681796
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/93959
  060106" target="_blank">Click here to join Zoom Meeting:939 5906 0106</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20201001T173900Z
-UID:event-calendar-event-1692317
-DTSTART:20201022T193000Z
-DTEND:20201022T203000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:985 0402 6221] (https://washin
- gton.zoom.us/j/98504026221)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 492 J: Optional Thursday Workshop [CSE 492 J]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396799&month=10
- &year=2020#calendar_event_1692317
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98504
- 026221" target="_blank">Click here to join Zoom Meeting:985 0402 6221</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T172900Z
-UID:event-calendar-event-1658324
-DTSTART:20201022T193000Z
-DTEND:20201022T203000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:910 6136 2394] (https://washin
- gton.zoom.us/j/91061362394)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AD [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1658324
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/91061
- 362394" target="_blank">Click here to join Zoom Meeting:910 6136 2394</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T204200Z
-UID:event-calendar-event-1662429
-DTSTART:20201022T213000Z
-DTEND:20201022T223000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:988 5822 3129] (https://washin
- gton.zoom.us/j/98858223129)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AE [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1662429
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98858
- 223129" target="_blank">Click here to join Zoom Meeting:988 5822 3129</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T205600Z
-UID:event-calendar-event-1682283
-DTSTART:20201022T223000Z
-DTEND:20201022T233000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:943 5468 2227] (https://washin
- gton.zoom.us/j/94354682227)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AF [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1682283
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/94354
- 682227" target="_blank">Click here to join Zoom Meeting:943 5468 2227</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T212400Z
-UID:event-calendar-event-1682753
-DTSTART:20201022T223000Z
-DTEND:20201022T233000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:978 7096 7799] (https://washin
- gton.zoom.us/j/97870967799)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AI [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1682753
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97870
- 967799" target="_blank">Click here to join Zoom Meeting:978 7096 7799</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -2193,42 +1193,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20201001T021200Z
-UID:event-calendar-event-1687495
-DTSTART:20201029T153000Z
-DTEND:20201029T164500Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 4153 8686] (https://washin
- gton.zoom.us/j/92641538686)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 Section CA [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=10
- &year=2020#calendar_event_1687495
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92641
- 538686" target="_blank">Click here to join Zoom Meeting:926 4153 8686</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T192700Z
-UID:event-calendar-event-1660872
-DTSTART:20201029T153000Z
-DTEND:20201029T163000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:981 3727 0618] (https://washin
- gton.zoom.us/j/98137270618)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AG [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1660872
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98137
- 270618" target="_blank">Click here to join Zoom Meeting:981 3727 0618</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20201001T173100Z
 UID:event-calendar-event-1692223
 DTSTART:20201029T163000Z
@@ -2297,96 +1261,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
  &year=2020#calendar_event_1681797
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/93959
  060106" target="_blank">Click here to join Zoom Meeting:939 5906 0106</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20201001T173900Z
-UID:event-calendar-event-1692318
-DTSTART:20201029T193000Z
-DTEND:20201029T203000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:985 0402 6221] (https://washin
- gton.zoom.us/j/98504026221)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 492 J: Optional Thursday Workshop [CSE 492 J]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396799&month=10
- &year=2020#calendar_event_1692318
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98504
- 026221" target="_blank">Click here to join Zoom Meeting:985 0402 6221</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T172900Z
-UID:event-calendar-event-1658325
-DTSTART:20201029T193000Z
-DTEND:20201029T203000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:910 6136 2394] (https://washin
- gton.zoom.us/j/91061362394)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AD [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1658325
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/91061
- 362394" target="_blank">Click here to join Zoom Meeting:910 6136 2394</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T204200Z
-UID:event-calendar-event-1662430
-DTSTART:20201029T213000Z
-DTEND:20201029T223000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:988 5822 3129] (https://washin
- gton.zoom.us/j/98858223129)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AE [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1662430
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98858
- 223129" target="_blank">Click here to join Zoom Meeting:988 5822 3129</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T205600Z
-UID:event-calendar-event-1682284
-DTSTART:20201029T223000Z
-DTEND:20201029T233000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:943 5468 2227] (https://washin
- gton.zoom.us/j/94354682227)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AF [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1682284
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/94354
- 682227" target="_blank">Click here to join Zoom Meeting:943 5468 2227</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T212400Z
-UID:event-calendar-event-1682754
-DTSTART:20201029T223000Z
-DTEND:20201029T233000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:978 7096 7799] (https://washin
- gton.zoom.us/j/97870967799)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AI [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=10
- &year=2020#calendar_event_1682754
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97870
- 967799" target="_blank">Click here to join Zoom Meeting:978 7096 7799</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -2463,24 +1337,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20200929T225000Z
-UID:event-calendar-event-1666068
-DTSTART:20201102T203000Z
-DTEND:20201102T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 1726 7959] (https://washin
- gton.zoom.us/j/92617267959)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 C: Main Lecture [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=11
- &year=2020#calendar_event_1666068
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92617
- 267959" target="_blank">Click here to join Zoom Meeting:926 1726 7959</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200922T014000Z
 UID:event-calendar-event-1604819
 DTSTART:20201102T223000Z
@@ -2495,42 +1351,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1400258&month=11
  &year=2020#calendar_event_1604819
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98707
  934496" target="_blank">Click here to join Zoom Meeting:987 0793 4496</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T051800Z
-UID:event-calendar-event-1672579
-DTSTART:20201102T233000Z
-DTEND:20201103T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:990 1695 5390] (https://washin
- gton.zoom.us/j/99016955390)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 373 20au Class Session [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1672579
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
- 955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200928T042800Z
-UID:event-calendar-event-1639806
-DTSTART:20201103T203000Z
-DTEND:20201103T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:977 8986 7129] (https://washin
- gton.zoom.us/j/97789867129)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 492 J: Tuesday Lecture [CSE 492 J]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396799&month=11
- &year=2020#calendar_event_1639806
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97789
- 867129" target="_blank">Click here to join Zoom Meeting:977 8986 7129</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -2553,24 +1373,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97033
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20200929T225000Z
-UID:event-calendar-event-1666069
-DTSTART:20201104T203000Z
-DTEND:20201104T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 1726 7959] (https://washin
- gton.zoom.us/j/92617267959)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 C: Main Lecture [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=11
- &year=2020#calendar_event_1666069
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92617
- 267959" target="_blank">Click here to join Zoom Meeting:926 1726 7959</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200922T014000Z
 UID:event-calendar-event-1604820
 DTSTART:20201104T223000Z
@@ -2585,24 +1387,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1400258&month=11
  &year=2020#calendar_event_1604820
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98707
  934496" target="_blank">Click here to join Zoom Meeting:987 0793 4496</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T051800Z
-UID:event-calendar-event-1672580
-DTSTART:20201104T233000Z
-DTEND:20201105T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:990 1695 5390] (https://washin
- gton.zoom.us/j/99016955390)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 373 20au Class Session [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1672580
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
- 955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -2697,114 +1481,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92267
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20200930T203500Z
-UID:event-calendar-event-1681798
-DTSTART:20201105T193000Z
-DTEND:20201105T203000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:939 5906 0106] (https://washin
- gton.zoom.us/j/93959060106)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AC [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1681798
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/93959
- 060106" target="_blank">Click here to join Zoom Meeting:939 5906 0106</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20201001T173900Z
-UID:event-calendar-event-1692319
-DTSTART:20201105T203000Z
-DTEND:20201105T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:985 0402 6221] (https://washin
- gton.zoom.us/j/98504026221)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 492 J: Optional Thursday Workshop [CSE 492 J]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396799&month=11
- &year=2020#calendar_event_1692319
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98504
- 026221" target="_blank">Click here to join Zoom Meeting:985 0402 6221</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T172900Z
-UID:event-calendar-event-1658327
-DTSTART:20201105T203000Z
-DTEND:20201105T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:910 6136 2394] (https://washin
- gton.zoom.us/j/91061362394)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AD [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1658327
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/91061
- 362394" target="_blank">Click here to join Zoom Meeting:910 6136 2394</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T204200Z
-UID:event-calendar-event-1662431
-DTSTART:20201105T223000Z
-DTEND:20201105T233000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:988 5822 3129] (https://washin
- gton.zoom.us/j/98858223129)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AE [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1662431
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98858
- 223129" target="_blank">Click here to join Zoom Meeting:988 5822 3129</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T205600Z
-UID:event-calendar-event-1682285
-DTSTART:20201105T233000Z
-DTEND:20201106T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:943 5468 2227] (https://washin
- gton.zoom.us/j/94354682227)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AF [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1682285
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/94354
- 682227" target="_blank">Click here to join Zoom Meeting:943 5468 2227</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T212400Z
-UID:event-calendar-event-1682755
-DTSTART:20201105T233000Z
-DTEND:20201106T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:978 7096 7799] (https://washin
- gton.zoom.us/j/97870967799)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AI [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1682755
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97870
- 967799" target="_blank">Click here to join Zoom Meeting:978 7096 7799</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200928T200800Z
 UID:event-calendar-event-1646503
 DTSTART:20201106T193000Z
@@ -2819,24 +1495,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1401579&month=11
  &year=2020#calendar_event_1646503
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97033
  710211" target="_blank">Click here to join Zoom Meeting:970 3371 0211</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T225000Z
-UID:event-calendar-event-1666070
-DTSTART:20201106T203000Z
-DTEND:20201106T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 1726 7959] (https://washin
- gton.zoom.us/j/92617267959)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 C: Main Lecture [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=11
- &year=2020#calendar_event_1666070
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92617
- 267959" target="_blank">Click here to join Zoom Meeting:926 1726 7959</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -2859,42 +1517,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98707
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20200930T051800Z
-UID:event-calendar-event-1672581
-DTSTART:20201106T233000Z
-DTEND:20201107T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:990 1695 5390] (https://washin
- gton.zoom.us/j/99016955390)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 373 20au Class Session [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1672581
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
- 955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T225000Z
-UID:event-calendar-event-1666071
-DTSTART:20201109T203000Z
-DTEND:20201109T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 1726 7959] (https://washin
- gton.zoom.us/j/92617267959)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 C: Main Lecture [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=11
- &year=2020#calendar_event_1666071
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92617
- 267959" target="_blank">Click here to join Zoom Meeting:926 1726 7959</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200922T014000Z
 UID:event-calendar-event-1604822
 DTSTART:20201109T223000Z
@@ -2913,42 +1535,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98707
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20200930T051800Z
-UID:event-calendar-event-1672582
-DTSTART:20201109T233000Z
-DTEND:20201110T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:990 1695 5390] (https://washin
- gton.zoom.us/j/99016955390)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 373 20au Class Session [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1672582
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
- 955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200928T042800Z
-UID:event-calendar-event-1639807
-DTSTART:20201110T203000Z
-DTEND:20201110T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:977 8986 7129] (https://washin
- gton.zoom.us/j/97789867129)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 492 J: Tuesday Lecture [CSE 492 J]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396799&month=11
- &year=2020#calendar_event_1639807
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97789
- 867129" target="_blank">Click here to join Zoom Meeting:977 8986 7129</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200928T200800Z
 UID:event-calendar-event-1646504
 DTSTART:20201111T193000Z
@@ -2963,42 +1549,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1401579&month=11
  &year=2020#calendar_event_1646504
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97033
  710211" target="_blank">Click here to join Zoom Meeting:970 3371 0211</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T225000Z
-UID:event-calendar-event-1666072
-DTSTART:20201111T203000Z
-DTEND:20201111T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 1726 7959] (https://washin
- gton.zoom.us/j/92617267959)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 C: Main Lecture [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=11
- &year=2020#calendar_event_1666072
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92617
- 267959" target="_blank">Click here to join Zoom Meeting:926 1726 7959</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T051800Z
-UID:event-calendar-event-1672583
-DTSTART:20201111T233000Z
-DTEND:20201112T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:990 1695 5390] (https://washin
- gton.zoom.us/j/99016955390)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 373 20au Class Session [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1672583
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
- 955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -3093,114 +1643,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92267
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20200930T203500Z
-UID:event-calendar-event-1681799
-DTSTART:20201112T193000Z
-DTEND:20201112T203000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:939 5906 0106] (https://washin
- gton.zoom.us/j/93959060106)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AC [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1681799
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/93959
- 060106" target="_blank">Click here to join Zoom Meeting:939 5906 0106</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20201001T173900Z
-UID:event-calendar-event-1692320
-DTSTART:20201112T203000Z
-DTEND:20201112T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:985 0402 6221] (https://washin
- gton.zoom.us/j/98504026221)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 492 J: Optional Thursday Workshop [CSE 492 J]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396799&month=11
- &year=2020#calendar_event_1692320
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98504
- 026221" target="_blank">Click here to join Zoom Meeting:985 0402 6221</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T172900Z
-UID:event-calendar-event-1658328
-DTSTART:20201112T203000Z
-DTEND:20201112T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:910 6136 2394] (https://washin
- gton.zoom.us/j/91061362394)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AD [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1658328
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/91061
- 362394" target="_blank">Click here to join Zoom Meeting:910 6136 2394</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T204200Z
-UID:event-calendar-event-1662432
-DTSTART:20201112T223000Z
-DTEND:20201112T233000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:988 5822 3129] (https://washin
- gton.zoom.us/j/98858223129)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AE [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1662432
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98858
- 223129" target="_blank">Click here to join Zoom Meeting:988 5822 3129</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T205600Z
-UID:event-calendar-event-1682287
-DTSTART:20201112T233000Z
-DTEND:20201113T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:943 5468 2227] (https://washin
- gton.zoom.us/j/94354682227)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AF [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1682287
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/94354
- 682227" target="_blank">Click here to join Zoom Meeting:943 5468 2227</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T212400Z
-UID:event-calendar-event-1682756
-DTSTART:20201112T233000Z
-DTEND:20201113T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:978 7096 7799] (https://washin
- gton.zoom.us/j/97870967799)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AI [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1682756
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97870
- 967799" target="_blank">Click here to join Zoom Meeting:978 7096 7799</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200928T200800Z
 UID:event-calendar-event-1646505
 DTSTART:20201113T193000Z
@@ -3215,24 +1657,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1401579&month=11
  &year=2020#calendar_event_1646505
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97033
  710211" target="_blank">Click here to join Zoom Meeting:970 3371 0211</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T225000Z
-UID:event-calendar-event-1666073
-DTSTART:20201113T203000Z
-DTEND:20201113T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 1726 7959] (https://washin
- gton.zoom.us/j/92617267959)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 C: Main Lecture [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=11
- &year=2020#calendar_event_1666073
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92617
- 267959" target="_blank">Click here to join Zoom Meeting:926 1726 7959</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -3255,42 +1679,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98707
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20200930T051800Z
-UID:event-calendar-event-1672584
-DTSTART:20201113T233000Z
-DTEND:20201114T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:990 1695 5390] (https://washin
- gton.zoom.us/j/99016955390)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 373 20au Class Session [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1672584
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
- 955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T225000Z
-UID:event-calendar-event-1666074
-DTSTART:20201116T203000Z
-DTEND:20201116T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 1726 7959] (https://washin
- gton.zoom.us/j/92617267959)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 C: Main Lecture [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=11
- &year=2020#calendar_event_1666074
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92617
- 267959" target="_blank">Click here to join Zoom Meeting:926 1726 7959</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200922T014000Z
 UID:event-calendar-event-1604825
 DTSTART:20201116T223000Z
@@ -3309,42 +1697,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98707
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20200930T051800Z
-UID:event-calendar-event-1672585
-DTSTART:20201116T233000Z
-DTEND:20201117T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:990 1695 5390] (https://washin
- gton.zoom.us/j/99016955390)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 373 20au Class Session [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1672585
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
- 955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200928T042800Z
-UID:event-calendar-event-1639808
-DTSTART:20201117T203000Z
-DTEND:20201117T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:977 8986 7129] (https://washin
- gton.zoom.us/j/97789867129)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 492 J: Tuesday Lecture [CSE 492 J]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396799&month=11
- &year=2020#calendar_event_1639808
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97789
- 867129" target="_blank">Click here to join Zoom Meeting:977 8986 7129</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200928T200800Z
 UID:event-calendar-event-1646506
 DTSTART:20201118T193000Z
@@ -3359,42 +1711,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1401579&month=11
  &year=2020#calendar_event_1646506
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97033
  710211" target="_blank">Click here to join Zoom Meeting:970 3371 0211</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T225000Z
-UID:event-calendar-event-1666075
-DTSTART:20201118T203000Z
-DTEND:20201118T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 1726 7959] (https://washin
- gton.zoom.us/j/92617267959)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 C: Main Lecture [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=11
- &year=2020#calendar_event_1666075
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92617
- 267959" target="_blank">Click here to join Zoom Meeting:926 1726 7959</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T051800Z
-UID:event-calendar-event-1672586
-DTSTART:20201118T233000Z
-DTEND:20201119T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:990 1695 5390] (https://washin
- gton.zoom.us/j/99016955390)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 373 20au Class Session [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1672586
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
- 955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -3489,114 +1805,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92267
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20200930T203500Z
-UID:event-calendar-event-1681800
-DTSTART:20201119T193000Z
-DTEND:20201119T203000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:939 5906 0106] (https://washin
- gton.zoom.us/j/93959060106)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AC [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1681800
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/93959
- 060106" target="_blank">Click here to join Zoom Meeting:939 5906 0106</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20201001T173900Z
-UID:event-calendar-event-1692321
-DTSTART:20201119T203000Z
-DTEND:20201119T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:985 0402 6221] (https://washin
- gton.zoom.us/j/98504026221)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 492 J: Optional Thursday Workshop [CSE 492 J]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396799&month=11
- &year=2020#calendar_event_1692321
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98504
- 026221" target="_blank">Click here to join Zoom Meeting:985 0402 6221</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T172900Z
-UID:event-calendar-event-1658329
-DTSTART:20201119T203000Z
-DTEND:20201119T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:910 6136 2394] (https://washin
- gton.zoom.us/j/91061362394)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AD [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1658329
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/91061
- 362394" target="_blank">Click here to join Zoom Meeting:910 6136 2394</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T204200Z
-UID:event-calendar-event-1662433
-DTSTART:20201119T223000Z
-DTEND:20201119T233000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:988 5822 3129] (https://washin
- gton.zoom.us/j/98858223129)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AE [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1662433
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98858
- 223129" target="_blank">Click here to join Zoom Meeting:988 5822 3129</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T205600Z
-UID:event-calendar-event-1682288
-DTSTART:20201119T233000Z
-DTEND:20201120T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:943 5468 2227] (https://washin
- gton.zoom.us/j/94354682227)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AF [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1682288
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/94354
- 682227" target="_blank">Click here to join Zoom Meeting:943 5468 2227</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T212400Z
-UID:event-calendar-event-1682757
-DTSTART:20201119T233000Z
-DTEND:20201120T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:978 7096 7799] (https://washin
- gton.zoom.us/j/97870967799)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AI [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1682757
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97870
- 967799" target="_blank">Click here to join Zoom Meeting:978 7096 7799</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200928T200800Z
 UID:event-calendar-event-1646507
 DTSTART:20201120T193000Z
@@ -3611,24 +1819,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1401579&month=11
  &year=2020#calendar_event_1646507
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97033
  710211" target="_blank">Click here to join Zoom Meeting:970 3371 0211</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T225000Z
-UID:event-calendar-event-1666076
-DTSTART:20201120T203000Z
-DTEND:20201120T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 1726 7959] (https://washin
- gton.zoom.us/j/92617267959)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 C: Main Lecture [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=11
- &year=2020#calendar_event_1666076
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92617
- 267959" target="_blank">Click here to join Zoom Meeting:926 1726 7959</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -3651,42 +1841,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98707
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20200930T051800Z
-UID:event-calendar-event-1672587
-DTSTART:20201120T233000Z
-DTEND:20201121T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:990 1695 5390] (https://washin
- gton.zoom.us/j/99016955390)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 373 20au Class Session [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1672587
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
- 955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T225000Z
-UID:event-calendar-event-1666077
-DTSTART:20201123T203000Z
-DTEND:20201123T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 1726 7959] (https://washin
- gton.zoom.us/j/92617267959)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 C: Main Lecture [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=11
- &year=2020#calendar_event_1666077
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92617
- 267959" target="_blank">Click here to join Zoom Meeting:926 1726 7959</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200922T014000Z
 UID:event-calendar-event-1604828
 DTSTART:20201123T223000Z
@@ -3701,42 +1855,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1400258&month=11
  &year=2020#calendar_event_1604828
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98707
  934496" target="_blank">Click here to join Zoom Meeting:987 0793 4496</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T051800Z
-UID:event-calendar-event-1672588
-DTSTART:20201123T233000Z
-DTEND:20201124T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:990 1695 5390] (https://washin
- gton.zoom.us/j/99016955390)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 373 20au Class Session [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1672588
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
- 955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200928T042800Z
-UID:event-calendar-event-1639809
-DTSTART:20201124T203000Z
-DTEND:20201124T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:977 8986 7129] (https://washin
- gton.zoom.us/j/97789867129)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 492 J: Tuesday Lecture [CSE 492 J]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396799&month=11
- &year=2020#calendar_event_1639809
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97789
- 867129" target="_blank">Click here to join Zoom Meeting:977 8986 7129</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -3759,24 +1877,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97033
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20200929T225000Z
-UID:event-calendar-event-1666078
-DTSTART:20201125T203000Z
-DTEND:20201125T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 1726 7959] (https://washin
- gton.zoom.us/j/92617267959)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 C: Main Lecture [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=11
- &year=2020#calendar_event_1666078
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92617
- 267959" target="_blank">Click here to join Zoom Meeting:926 1726 7959</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200922T014000Z
 UID:event-calendar-event-1604829
 DTSTART:20201125T223000Z
@@ -3791,24 +1891,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1400258&month=11
  &year=2020#calendar_event_1604829
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98707
  934496" target="_blank">Click here to join Zoom Meeting:987 0793 4496</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T051800Z
-UID:event-calendar-event-1672589
-DTSTART:20201125T233000Z
-DTEND:20201126T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:990 1695 5390] (https://washin
- gton.zoom.us/j/99016955390)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 373 20au Class Session [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1672589
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
- 955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -3903,114 +1985,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92267
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20200930T203500Z
-UID:event-calendar-event-1681801
-DTSTART:20201126T193000Z
-DTEND:20201126T203000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:939 5906 0106] (https://washin
- gton.zoom.us/j/93959060106)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AC [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1681801
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/93959
- 060106" target="_blank">Click here to join Zoom Meeting:939 5906 0106</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20201001T173900Z
-UID:event-calendar-event-1692322
-DTSTART:20201126T203000Z
-DTEND:20201126T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:985 0402 6221] (https://washin
- gton.zoom.us/j/98504026221)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 492 J: Optional Thursday Workshop [CSE 492 J]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396799&month=11
- &year=2020#calendar_event_1692322
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98504
- 026221" target="_blank">Click here to join Zoom Meeting:985 0402 6221</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T172900Z
-UID:event-calendar-event-1658330
-DTSTART:20201126T203000Z
-DTEND:20201126T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:910 6136 2394] (https://washin
- gton.zoom.us/j/91061362394)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AD [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1658330
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/91061
- 362394" target="_blank">Click here to join Zoom Meeting:910 6136 2394</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T204200Z
-UID:event-calendar-event-1662434
-DTSTART:20201126T223000Z
-DTEND:20201126T233000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:988 5822 3129] (https://washin
- gton.zoom.us/j/98858223129)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AE [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1662434
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98858
- 223129" target="_blank">Click here to join Zoom Meeting:988 5822 3129</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T205600Z
-UID:event-calendar-event-1682289
-DTSTART:20201126T233000Z
-DTEND:20201127T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:943 5468 2227] (https://washin
- gton.zoom.us/j/94354682227)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AF [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1682289
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/94354
- 682227" target="_blank">Click here to join Zoom Meeting:943 5468 2227</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T212400Z
-UID:event-calendar-event-1682758
-DTSTART:20201126T233000Z
-DTEND:20201127T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:978 7096 7799] (https://washin
- gton.zoom.us/j/97870967799)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AI [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1682758
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97870
- 967799" target="_blank">Click here to join Zoom Meeting:978 7096 7799</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200928T200800Z
 UID:event-calendar-event-1646509
 DTSTART:20201127T193000Z
@@ -4025,60 +1999,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1401579&month=11
  &year=2020#calendar_event_1646509
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97033
  710211" target="_blank">Click here to join Zoom Meeting:970 3371 0211</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T225000Z
-UID:event-calendar-event-1666079
-DTSTART:20201127T203000Z
-DTEND:20201127T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 1726 7959] (https://washin
- gton.zoom.us/j/92617267959)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 C: Main Lecture [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=11
- &year=2020#calendar_event_1666079
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92617
- 267959" target="_blank">Click here to join Zoom Meeting:926 1726 7959</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T051800Z
-UID:event-calendar-event-1672590
-DTSTART:20201127T233000Z
-DTEND:20201128T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:990 1695 5390] (https://washin
- gton.zoom.us/j/99016955390)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 373 20au Class Session [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1672590
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
- 955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T225000Z
-UID:event-calendar-event-1666080
-DTSTART:20201130T203000Z
-DTEND:20201130T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 1726 7959] (https://washin
- gton.zoom.us/j/92617267959)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 C: Main Lecture [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=11
- &year=2020#calendar_event_1666080
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92617
- 267959" target="_blank">Click here to join Zoom Meeting:926 1726 7959</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -4101,42 +2021,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98707
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20200930T051800Z
-UID:event-calendar-event-1672591
-DTSTART:20201130T233000Z
-DTEND:20201201T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:990 1695 5390] (https://washin
- gton.zoom.us/j/99016955390)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 373 20au Class Session [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=11
- &year=2020#calendar_event_1672591
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
- 955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200928T042800Z
-UID:event-calendar-event-1639810
-DTSTART:20201201T203000Z
-DTEND:20201201T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:977 8986 7129] (https://washin
- gton.zoom.us/j/97789867129)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 492 J: Tuesday Lecture [CSE 492 J]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396799&month=12
- &year=2020#calendar_event_1639810
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97789
- 867129" target="_blank">Click here to join Zoom Meeting:977 8986 7129</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200928T200800Z
 UID:event-calendar-event-1646510
 DTSTART:20201202T193000Z
@@ -4155,24 +2039,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97033
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20200929T225000Z
-UID:event-calendar-event-1666081
-DTSTART:20201202T203000Z
-DTEND:20201202T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 1726 7959] (https://washin
- gton.zoom.us/j/92617267959)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 C: Main Lecture [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=12
- &year=2020#calendar_event_1666081
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92617
- 267959" target="_blank">Click here to join Zoom Meeting:926 1726 7959</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200922T014000Z
 UID:event-calendar-event-1604832
 DTSTART:20201202T223000Z
@@ -4187,24 +2053,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1400258&month=12
  &year=2020#calendar_event_1604832
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98707
  934496" target="_blank">Click here to join Zoom Meeting:987 0793 4496</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T051800Z
-UID:event-calendar-event-1672592
-DTSTART:20201202T233000Z
-DTEND:20201203T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:990 1695 5390] (https://washin
- gton.zoom.us/j/99016955390)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 373 20au Class Session [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=12
- &year=2020#calendar_event_1672592
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
- 955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -4299,114 +2147,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92267
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20200930T203500Z
-UID:event-calendar-event-1681802
-DTSTART:20201203T193000Z
-DTEND:20201203T203000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:939 5906 0106] (https://washin
- gton.zoom.us/j/93959060106)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AC [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=12
- &year=2020#calendar_event_1681802
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/93959
- 060106" target="_blank">Click here to join Zoom Meeting:939 5906 0106</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20201001T173900Z
-UID:event-calendar-event-1692323
-DTSTART:20201203T203000Z
-DTEND:20201203T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:985 0402 6221] (https://washin
- gton.zoom.us/j/98504026221)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 492 J: Optional Thursday Workshop [CSE 492 J]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396799&month=12
- &year=2020#calendar_event_1692323
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98504
- 026221" target="_blank">Click here to join Zoom Meeting:985 0402 6221</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T172900Z
-UID:event-calendar-event-1658331
-DTSTART:20201203T203000Z
-DTEND:20201203T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:910 6136 2394] (https://washin
- gton.zoom.us/j/91061362394)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AD [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=12
- &year=2020#calendar_event_1658331
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/91061
- 362394" target="_blank">Click here to join Zoom Meeting:910 6136 2394</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T204200Z
-UID:event-calendar-event-1662435
-DTSTART:20201203T223000Z
-DTEND:20201203T233000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:988 5822 3129] (https://washin
- gton.zoom.us/j/98858223129)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AE [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=12
- &year=2020#calendar_event_1662435
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98858
- 223129" target="_blank">Click here to join Zoom Meeting:988 5822 3129</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T205600Z
-UID:event-calendar-event-1682290
-DTSTART:20201203T233000Z
-DTEND:20201204T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:943 5468 2227] (https://washin
- gton.zoom.us/j/94354682227)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AF [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=12
- &year=2020#calendar_event_1682290
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/94354
- 682227" target="_blank">Click here to join Zoom Meeting:943 5468 2227</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T212400Z
-UID:event-calendar-event-1682759
-DTSTART:20201203T233000Z
-DTEND:20201204T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:978 7096 7799] (https://washin
- gton.zoom.us/j/97870967799)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AI [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=12
- &year=2020#calendar_event_1682759
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97870
- 967799" target="_blank">Click here to join Zoom Meeting:978 7096 7799</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200928T200800Z
 UID:event-calendar-event-1646511
 DTSTART:20201204T193000Z
@@ -4421,24 +2161,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1401579&month=12
  &year=2020#calendar_event_1646511
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97033
  710211" target="_blank">Click here to join Zoom Meeting:970 3371 0211</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T225000Z
-UID:event-calendar-event-1666082
-DTSTART:20201204T203000Z
-DTEND:20201204T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 1726 7959] (https://washin
- gton.zoom.us/j/92617267959)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 C: Main Lecture [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=12
- &year=2020#calendar_event_1666082
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92617
- 267959" target="_blank">Click here to join Zoom Meeting:926 1726 7959</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -4461,42 +2183,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98707
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20200930T051800Z
-UID:event-calendar-event-1672593
-DTSTART:20201204T233000Z
-DTEND:20201205T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:990 1695 5390] (https://washin
- gton.zoom.us/j/99016955390)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 373 20au Class Session [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=12
- &year=2020#calendar_event_1672593
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
- 955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T225000Z
-UID:event-calendar-event-1666083
-DTSTART:20201207T203000Z
-DTEND:20201207T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 1726 7959] (https://washin
- gton.zoom.us/j/92617267959)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 C: Main Lecture [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=12
- &year=2020#calendar_event_1666083
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92617
- 267959" target="_blank">Click here to join Zoom Meeting:926 1726 7959</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200922T014000Z
 UID:event-calendar-event-1604834
 DTSTART:20201207T223000Z
@@ -4511,42 +2197,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1400258&month=12
  &year=2020#calendar_event_1604834
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98707
  934496" target="_blank">Click here to join Zoom Meeting:987 0793 4496</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T051800Z
-UID:event-calendar-event-1672594
-DTSTART:20201207T233000Z
-DTEND:20201208T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:990 1695 5390] (https://washin
- gton.zoom.us/j/99016955390)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 373 20au Class Session [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=12
- &year=2020#calendar_event_1672594
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
- 955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200928T042800Z
-UID:event-calendar-event-1639811
-DTSTART:20201208T203000Z
-DTEND:20201208T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:977 8986 7129] (https://washin
- gton.zoom.us/j/97789867129)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 492 J: Tuesday Lecture [CSE 492 J]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396799&month=12
- &year=2020#calendar_event_1639811
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97789
- 867129" target="_blank">Click here to join Zoom Meeting:977 8986 7129</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -4569,24 +2219,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97033
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20200929T225000Z
-UID:event-calendar-event-1666084
-DTSTART:20201209T203000Z
-DTEND:20201209T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 1726 7959] (https://washin
- gton.zoom.us/j/92617267959)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 C: Main Lecture [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=12
- &year=2020#calendar_event_1666084
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92617
- 267959" target="_blank">Click here to join Zoom Meeting:926 1726 7959</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200922T014000Z
 UID:event-calendar-event-1604835
 DTSTART:20201209T223000Z
@@ -4601,24 +2233,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1400258&month=12
  &year=2020#calendar_event_1604835
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98707
  934496" target="_blank">Click here to join Zoom Meeting:987 0793 4496</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T051800Z
-UID:event-calendar-event-1672595
-DTSTART:20201209T233000Z
-DTEND:20201210T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:990 1695 5390] (https://washin
- gton.zoom.us/j/99016955390)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 373 20au Class Session [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=12
- &year=2020#calendar_event_1672595
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
- 955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -4695,114 +2309,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92267
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20200930T203500Z
-UID:event-calendar-event-1681803
-DTSTART:20201210T193000Z
-DTEND:20201210T203000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:939 5906 0106] (https://washin
- gton.zoom.us/j/93959060106)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AC [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=12
- &year=2020#calendar_event_1681803
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/93959
- 060106" target="_blank">Click here to join Zoom Meeting:939 5906 0106</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20201001T173900Z
-UID:event-calendar-event-1692324
-DTSTART:20201210T203000Z
-DTEND:20201210T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:985 0402 6221] (https://washin
- gton.zoom.us/j/98504026221)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 492 J: Optional Thursday Workshop [CSE 492 J]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396799&month=12
- &year=2020#calendar_event_1692324
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98504
- 026221" target="_blank">Click here to join Zoom Meeting:985 0402 6221</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T172900Z
-UID:event-calendar-event-1658332
-DTSTART:20201210T203000Z
-DTEND:20201210T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:910 6136 2394] (https://washin
- gton.zoom.us/j/91061362394)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AD [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=12
- &year=2020#calendar_event_1658332
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/91061
- 362394" target="_blank">Click here to join Zoom Meeting:910 6136 2394</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200929T204200Z
-UID:event-calendar-event-1662436
-DTSTART:20201210T223000Z
-DTEND:20201210T233000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:988 5822 3129] (https://washin
- gton.zoom.us/j/98858223129)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AE [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=12
- &year=2020#calendar_event_1662436
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98858
- 223129" target="_blank">Click here to join Zoom Meeting:988 5822 3129</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T205600Z
-UID:event-calendar-event-1682291
-DTSTART:20201210T233000Z
-DTEND:20201211T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:943 5468 2227] (https://washin
- gton.zoom.us/j/94354682227)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AF [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=12
- &year=2020#calendar_event_1682291
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/94354
- 682227" target="_blank">Click here to join Zoom Meeting:943 5468 2227</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T212400Z
-UID:event-calendar-event-1682760
-DTSTART:20201210T233000Z
-DTEND:20201211T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:978 7096 7799] (https://washin
- gton.zoom.us/j/97870967799)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AI [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=12
- &year=2020#calendar_event_1682760
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97870
- 967799" target="_blank">Click here to join Zoom Meeting:978 7096 7799</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200928T200800Z
 UID:event-calendar-event-1646513
 DTSTART:20201211T193000Z
@@ -4821,24 +2327,6 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/97033
 END:VEVENT
 BEGIN:VEVENT
 
-DTSTAMP:20200929T225000Z
-UID:event-calendar-event-1666085
-DTSTART:20201211T203000Z
-DTEND:20201211T213000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:926 1726 7959] (https://washin
- gton.zoom.us/j/92617267959)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 414 C: Main Lecture [CSE 414 C]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=12
- &year=2020#calendar_event_1666085
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92617
- 267959" target="_blank">Click here to join Zoom Meeting:926 1726 7959</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
 DTSTAMP:20200922T014000Z
 UID:event-calendar-event-1604836
 DTSTART:20201211T223000Z
@@ -4853,24 +2341,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1400258&month=12
  &year=2020#calendar_event_1604836
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/98707
  934496" target="_blank">Click here to join Zoom Meeting:987 0793 4496</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T051800Z
-UID:event-calendar-event-1672596
-DTSTART:20201211T233000Z
-DTEND:20201212T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:990 1695 5390] (https://washin
- gton.zoom.us/j/99016955390)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:CSE 373 20au Class Session [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=12
- &year=2020#calendar_event_1672596
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/99016
- 955390" target="_blank">Click here to join Zoom Meeting:990 1695 5390</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT
@@ -4907,24 +2377,6 @@ URL:https://canvas.uw.edu/calendar?include_contexts=course_1418662&month=12
  &year=2020#calendar_event_1687502
 X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/92641
  538686" target="_blank">Click here to join Zoom Meeting:926 4153 8686</a><
- /p>
-END:VEVENT
-BEGIN:VEVENT
-
-DTSTAMP:20200930T205600Z
-UID:event-calendar-event-1682292
-DTSTART:20201217T233000Z
-DTEND:20201218T003000Z
-CLASS:PUBLIC
-DESCRIPTION:[Click here to join Zoom Meeting:943 5468 2227] (https://washin
- gton.zoom.us/j/94354682227)
-LOCATION:Zoom Online Meeting
-SEQUENCE:0
-SUMMARY:Section AF [CSE 373 A]
-URL:https://canvas.uw.edu/calendar?include_contexts=course_1396748&month=12
- &year=2020#calendar_event_1682292
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://washington.zoom.us/j/94354
- 682227" target="_blank">Click here to join Zoom Meeting:943 5468 2227</a><
  /p>
 END:VEVENT
 BEGIN:VEVENT

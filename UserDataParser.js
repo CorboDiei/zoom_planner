@@ -18,7 +18,6 @@ async function processLineByLine(fileName) {
         });
 
         await once(rl, 'close');
-        console.log(userData);
         console.log('File processed.');
     } catch (err) {
         console.error(err);
@@ -43,10 +42,15 @@ async function processFile(fileName, myUWData) {
                 let time = myUWData[j].time;
                 let days = myUWData[j].days;
                 //check day of the week works
-                if (days.contains(toDayOfWeek(dtstart.getDay()))) {
+                if (days.includes(toDayOfWeek(dtstart.getDay()))) {
                     //check time of day works
                     let ts = makeTimeString(dtstart, dtend);
-                    if (ts.equals(time)) {
+                    ts = ts.split(' ')[0];
+                    time = time.split(' ')[0];
+                    //console.log(ts);
+                    //console.log(time);
+                    console.log(ts.localeCompare(time));
+                    if (ts.localeCompare(time) === 0) {
                         //if both work, add to zoom entries
                         zoomEntries += userDataArray[i] + '***';
                     }
@@ -54,6 +58,7 @@ async function processFile(fileName, myUWData) {
             }
         }
     }
+    console.log( '*' + zoomEntries);
 }
 //private helper, makes date out of .ics dtstart/end
 function processDate(date) {
@@ -87,13 +92,15 @@ function toDayOfWeek(num) {
 
 function makeTimeString(date1, date2) {
     let ret = '';
-    let newHour1 = date1.getHours() - 7;
+    let newHour1 = date1.getHours();
     if (newHour1 > 12) {
         newHour1 -= 12;
     }
-    let newHour2 = date2.getHours() - 7;
+    let newHour2 = date2.getHours();
     if (newHour2 > 12) {
         newHour2 -= 12;
+        ret = 'PM';
+    } else if (newHour2 === 12) {
         ret = 'PM';
     } else {
         ret = 'AM';
@@ -130,7 +137,7 @@ async function processZoomEntries(fileName, myUWData) {
     finishCalendar(caltext);
     return 'zoomplanner.ics';
 }
-processZoomEntries('user_pXLxAiHUJK4Bgb3PF4oAzbyS4OtUs2PkVVu7cKWb (1).ics', myUWData);
+processZoomEntries('user_pXLxAiHUJK4Bgb3PF4oAzbyS4OtUs2PkVVu7cKWb (1).ics', JSON.parse('[{"title":"CSE 373 A","time":"3:30 – 4:20PM","days":["M","W","F"]},{"title":"CSE 373 AB","time":"10:30 – 11:20AM","days":["Th"]},{"title":"CSE 414 C","time":"12:30 – 1:20PM","days":["M","W","F"]},{"title":"CSE 414 CB","time":"9:30 – 10:20AM","days":["Th"]},{"title":"CSE 492 J","time":"12:30 – 1:20PM","days":["T"]},{"title":"MATH 324 C","time":"2:30 – 3:20PM","days":["M","W","F"]},{"title":"PHYS 122 B","time":"11:30 – 12:20PM","days":["M","W","F"]},{"title":"PHYS 122 B","time":"11:30 – 12:20PM","days":["Th"]},{"title":"PHYS 122 BD","time":"3:30 – 4:20PM","days":["T"]}]'));
 
 
 
