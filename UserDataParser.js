@@ -113,11 +113,13 @@ function addEvent(event) {
 }
 
 //writes final calendar string to file
-function finishCalendar(caltext) {
+function finishCalendar(caltext, filePath) {
     caltext += "END:VCALENDAR";
-    fs.writeFile('zoomplanner.ics', caltext, (err) => {
+    var finalFilePath = filePath.split('.')[0] + "2." + filePath.split('.')[1];
+    fs.writeFile(finalFilePath, caltext, (err) => {
         if (err) throw err;
     })
+    return finalFilePath;
 }
 
 async function processZoomEntries(fileName, myUWData) {
@@ -127,10 +129,11 @@ async function processZoomEntries(fileName, myUWData) {
     for (let i = 0; i < zoomArray.length; i++) {
         caltext += addEvent(zoomArray[i]);
     }
-    finishCalendar(caltext);
-    return 'zoomplanner.ics';
+    return finishCalendar(caltext, fileName);
 }
-processZoomEntries('user_pXLxAiHUJK4Bgb3PF4oAzbyS4OtUs2PkVVu7cKWb (1).ics', myUWData);
+// processZoomEntries('user_pXLxAiHUJK4Bgb3PF4oAzbyS4OtUs2PkVVu7cKWb (1).ics', myUWData);
+
+module.exports = processZoomEntries;
 
 
 

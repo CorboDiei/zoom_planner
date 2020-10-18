@@ -9,6 +9,7 @@
         }
     ],
     "browser_action": {
+        "default_icon": "zoomplanner.png",
         "default_popup": "popup.html",
         "default_title": "zoomplanner"
     }
