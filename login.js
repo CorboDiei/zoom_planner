@@ -7,7 +7,7 @@ const { password } = require('./c');
 
 async function classesFromMyUW() {
     const browser = await puppeteer.launch({
-        headless: false,
+        headless: true,
         slowMo: 10,
         devtools: true,
         args: [
@@ -83,7 +83,7 @@ async function classesFromMyUW() {
 async function getCalendar(courses) {
     // setup
     const browser = await puppeteer.launch({
-        headless: false,
+        headless: true,
         slowMo: 10,
         devtools: true,
         args: [
