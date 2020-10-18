@@ -1,5 +1,5 @@
 const puppeteer = require('puppeteer');
-const c = require('./c')
+const c = require("c.js")
 
 async function setup() {
     // setup
