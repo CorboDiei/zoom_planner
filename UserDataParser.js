@@ -89,13 +89,15 @@ function toDayOfWeek(num) {
 
 function makeTimeString(date1, date2) {
     let ret = '';
-    let newHour1 = date1.getHours() - 7;
+    let newHour1 = date1.getHours();
     if (newHour1 > 12) {
         newHour1 -= 12;
     }
-    let newHour2 = date2.getHours() - 7;
+    let newHour2 = date2.getHours();
     if (newHour2 > 12) {
         newHour2 -= 12;
+        ret = 'PM';
+    } else if (newHour2 === 12) {
         ret = 'PM';
     } else {
         ret = 'AM';
