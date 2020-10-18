@@ -1,5 +1,24 @@
-@import url('https://fonts.googleapis.com/css2?family=Unica+One&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Unica+One&display=swap");
 
+.invis {
+    display: none;
+}
+
+.show {
+    display: flex;
+}
+
+#download-div {
+    margin-top: 10px;
+    justify-content: center;
+    font-size: 20px;
+}
+
+#error-div {
+    justify-content: center;
+    font-size: 20px;
+    color: red;
+}
 #login-popup {
     display: grid;
     grid-template-rows: 12% 58% 30%;
@@ -14,7 +33,7 @@ div {
     justify-content: center;
     align-items: center;
     font-size: 25px;
-    font-family: 'Unica One', cursive;
+    font-family: "Unica One", cursive;
 }
 
 #uw-img-div {
@@ -32,7 +51,7 @@ div {
     display: flex;
     justify-content: center;
     font-size: 15px;
-    font-family: 'Unica One', cursive;
+    font-family: "Unica One", cursive;
 }
 #login-button {
     background-color: none;
@@ -41,10 +60,9 @@ div {
     width: 100%;
     font-size: 15px;
     margin: 5px 0 30px 0;
-    font-family: 'Unica One', cursive;
+    font-family: "Unica One", cursive;
 }
 
 #login-button:hover {
     cursor: pointer;
 }
-

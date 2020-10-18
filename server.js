@@ -2,12 +2,15 @@ const express = require('express');
 const login = require('./login');
 const bodyParser = require('body-parser');
 const fs = require('fs');
+const cors = require('cors');
 const { response } = require('express');
 const processZoomEntries = require('./UserDataParser');
 
 const app = express();
+app.use(cors());
 app.use(express.static(__dirname));
 app.use(bodyParser.urlencoded({ extended: true}))
+
 
 app.get('/', (req, res) => {
     res.sendFile(__dirname + '/test.html');
@@ -16,6 +19,7 @@ app.get('/', (req, res) => {
 app.post('/getcal', async (req, res) => {
     var username = req.body.username;
     var password = req.body.password;
+    console.log("trying to log in with " + username)
     try {
         var parsed = await login(username, password);
     } catch(e) {
@@ -25,10 +29,12 @@ app.post('/getcal', async (req, res) => {
     var icsPath = parsed[1][0];
     var icsID = parsed[1][1];
     var icsFilePath = processZoomEntries(icsPath, uwData)
-    // var icsFilePath = __dirname + "/testCal.ics";
+    res.statusCode = 200;
     res.json( {
         link: 'http://localhost:3001/getcal/' + icsID
     })
+    
+
 })
 
 app.get('/getcal/:id', (req, res) => {

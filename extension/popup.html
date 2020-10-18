@@ -1,7 +1,6 @@
 <html>
     <head>
         <link rel="stylesheet" href="styles.css" />
-        <script src="popup.js" charset="utf-8"></script>
     </head>
     <body>
         <script
@@ -31,7 +30,11 @@
             <div id="uw-img-div">
                 <img id="uw-img" src="uw.png" />
             </div>
-            <div id="form-div">
+            <div id="error-div" class="invis">
+                <h3>Something went wrong. Try again later.</h3>
+            </div>
+            <div id="download-div" class="invis"></div>
+            <div id="form-div" class="show">
                 <form id="login-form" action="" method="post">
                     <label for="">Username</label>
                     <input type="username" name="username" id="username" />
