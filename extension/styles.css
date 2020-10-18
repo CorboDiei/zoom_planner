@@ -16,9 +16,28 @@
 
 #error-div {
     justify-content: center;
+    align-items: center;
     font-size: 20px;
     color: red;
+    font-family: "Unica One", cursive;
 }
+
+#download-button {
+    border: none;
+    text-decoration: none;
+    border-radius: none;
+    font-family: "Unica One", cursive;
+    width: 100%;
+    font-size: 25px;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+#download-button:hover {
+    cursor: pointer;
+    background-color: #bf95e4;
+}
+
 /* #login-popup {
     display: grid;
     grid-template-rows: 12% 58% 30%;
@@ -70,4 +89,13 @@ div {
 
 #login-button:hover {
     cursor: pointer;
+    background-color: #bf95e4;
+}
+
+#waiting-div {
+    display: flex;
+    margin-top: 30px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
 }
