@@ -18,28 +18,27 @@ async function processLineByLine(fileName) {
         });
 
         await once(rl, 'close');
-
+        console.log(userData);
         console.log('File processed.');
     } catch (err) {
         console.error(err);
     }
 }
 
-async function processFile(fileName) {
-    await processLineByLine('testCal.ics');
+async function processFile(fileName, myUWData) {
+    await processLineByLine(fileName);
     let userDataArray = userData.split("BEGIN:VEVENT");
     // parses through the entire file by event and pulls out ones with zoom links
     for (let i = 1; i < userDataArray.length; i++) {
         if (userDataArray[i].includes('zoom.us')) {
-            zoomEntries += userDataArray[i] + '***';
-            /*
+            //zoomEntries += userDataArray[i] + '***';
+
+            // this is checking if it fits with the myUW schedule
             let eventArray = userDataArray[i].split('\n');
             const dtstart = processDate(eventArray[3]);
             //console.log(dtstart);
             const dtend = processDate(eventArray[4]);
-
             //console.log(dtend);
-
             for (let j = 0; j < myUWData.length; j++) {
                 let time = myUWData[j].time;
                 let days = myUWData[j].days;
@@ -48,14 +47,13 @@ async function processFile(fileName) {
                     //check time of day works
                     let ts = makeTimeString(dtstart, dtend);
                     if (ts.equals(time)) {
-                        zoomEntries += userDataArray[i];
+                        //if both work, add to zoom entries
+                        zoomEntries += userDataArray[i] + '***';
                     }
                 }
             }
-             */
         }
     }
-    console.log(zoomEntries);
 }
 //private helper, makes date out of .ics dtstart/end
 function processDate(date) {
@@ -110,27 +108,6 @@ function makeCalendar() {
 
 //adds an event to the calendar string
 function addEvent(event) {
-    /*
-    const curTime = new Date();
-    let eventText = 'BEGIN:VEVENT\n';
-    eventText +=  'SUMMARY:'+ title + '\n';
-    eventText += 'UID:' + Date.now() + 'zoomplanner2020@gmail.com' +
-        '\nSEQUENCE:0' +
-        '\nSTATUS:CONFIRMED' +
-        '\nTRANSP:TRANSPARENT\n';
-    eventText += 'DTSTART:'+ date + start + '\n';
-    eventText += 'DTEND:'+ date + end + '\n';
-
-    let month = curTime.getMonth();
-    if (month < 10) {
-        month = '0' + month;
-    }
-    eventText += 'DTSTAMP:'+ curTime.getFullYear() + month + curTime.getDate() + "T000000\n";
-
-    eventText += 'URL:'+ link + '\n';
-    eventText += 'END:VEVENT\n';
-    return eventText;
-     */
     let eventText = 'BEGIN:VEVENT\n';
     return eventText += event;
 }
@@ -143,17 +120,17 @@ function finishCalendar(caltext) {
     })
 }
 
-async function processZoomEntries(fileName) {
+async function processZoomEntries(fileName, myUWData) {
     let caltext = makeCalendar();
-    await processFile(fileName);
+    await processFile(fileName, myUWData);
     let zoomArray = zoomEntries.split("***")
     for (let i = 0; i < zoomArray.length; i++) {
         caltext += addEvent(zoomArray[i]);
     }
     finishCalendar(caltext);
+    return 'zoomplanner.ics';
 }
-processZoomEntries('user_pXLxAiHUJK4Bgb3PF4oAzbyS4OtUs2PkVVu7cKWb (1).ics');
-//console.log(zoomEntries);
+processZoomEntries('user_pXLxAiHUJK4Bgb3PF4oAzbyS4OtUs2PkVVu7cKWb (1).ics', myUWData);
 
 
 
