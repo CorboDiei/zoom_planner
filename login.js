@@ -2,6 +2,7 @@ const puppeteer = require('puppeteer');
 const c = require('./c');
 const fs = require('fs');
 const myuw = require('./myuw.json');
+const https = require('https');
 const { password } = require('./c');
 
 async function classesFromMyUW() {
@@ -53,9 +54,9 @@ async function classesFromMyUW() {
         })
         return inner_courses;
     })
-    fs.writeFile('./myuw.json', JSON.stringify(courses), err => {
-        console.log(err);
-    });
+    // fs.writeFile('./myuw.json', JSON.stringify(courses), err => {
+    //     console.log(err);
+    // });
     console.log(courses);
 
     // const COURSE_ID_SELECTOR = '.courseIDtitle';
@@ -79,7 +80,7 @@ async function classesFromMyUW() {
 }
 
 
-async function setup(courses) {
+async function getCalendar(courses) {
     // setup
     const browser = await puppeteer.launch({
         headless: false,
@@ -163,90 +164,20 @@ async function setup(courses) {
     const calLink = await page.$eval(P_FEED_SELECTOR, cal => {
         return cal.querySelector('input').getAttribute('value');
     })
-    
-    return calLink;
-    // get 
-
-    // get classes
-    // const CARD_SELECTOR = '.ic-DashboardCard__header_content';
-    // await page.waitForSelector(CARD_SELECTOR);
-    // var results = await page.$$eval(CARD_SELECTOR, cards => {
-    //     return cards.map(card => {
-    //         const properties = {};
-    //         const subtitleElement = card.querySelector('.ic-DashboardCard__header-subtitle');
-    //         const termElement = card.querySelector('.ic-DashboardCard__header-term');
-    //         let term = termElement.innerText.split(' ');
-    //         let termVal = 0;
-    //         switch(term[0]) {
-    //             case 'Autumn':
-    //                 termVal = 3;
-    //                 break;
-    //             case 'Winter':
-    //                 termVal = 1;
-    //                 break;
-    //             case 'Spring':
-    //                 termVal = 2;
-    //                 break;
-    //             default:
-    //                 break;
-    //         }
-    //         properties.termVal = termVal + parseInt(term[1]) * 10;
-    //         properties.class = subtitleElement.innerText;
-    //         return properties;
-    //     })
-    // })
-
-    // // parse terms
-    // let reprTerm = Math.max(...results.map(a => a.termVal));
-    // results = results.filter(entry => entry.termVal === reprTerm).map(a => a.class);
-    // console.log(results);
-
-    
-    // // collate list
-    // let testEntry = results[0];
-
-    // var CLASS_SELECTOR = '[title="' + testEntry + '"]';
-    // await page.click(CLASS_SELECTOR);
-    // const SECTION_SELECTOR = '.section';
-    // await page.waitForSelector(SECTION_SELECTOR);
-    // var zoom = await page.$$eval(SECTION_SELECTOR, sections => {
-    //     return sections.map(section => {
-    //         if (section.querySelector('a').innerText.toLowerCase().includes("zoom")) {
-    //             return section.querySelector('a').getAttribute('href');
-    //         } else {
-    //             return "";
-    //         }
-    //     })
-    // })
-    // zoom = zoom.filter(a => a.length > 0)[0];
-    // var ZOOM_SELECTOR = '[href="' + zoom + '"]';
-    // await page.click(ZOOM_SELECTOR);
-    
-    
-    // console.log(zoom);
-    // await page.waitForSelector('iframe');
-    // let bodyHTML = await page.content();
-    // console.log(bodyHTML);
-    // const iFrame_SELECTOR = '#tool_content';
-    // await page.waitForSelector(iFrame_SELECTOR);
-    // let iFrame = await page.$(iFrame_SELECTOR);
-    // console.log(iFrame.contents());
-
-    // const frame_1072 = frames.find(f => f.url() === 'https://applications.zoom.us/lti/rich')
-    // const TIME_ZONE_SELECTOR = '.zm-comp-header > .zm-comp-header-content > div > div > span';
-    // await frame_1072.waitForSelector(TIME_ZONE_SELECTOR)
-    // const tZone = await page.$eval(TIME_ZONE_SELECTOR, e => e.innerText);
-
-    // console.log(tZone);
-
-    // results.forEach(async entry => {
-    //     console.log(entry);
-    //     var CLASS_SELECTOR = '[title="' + entry + '"]';
-    //     await page.click(CLASS_SELECTOR);
-    // })
+    const id = Math.random().toString(36).substring(7);
+    const pathname = __dirname + "/serve/" + id + '.ics';
+    const file = fs.createWriteStream(pathname)
+    const request = https.get(calLink, res => {
+        res.pipe(file);
+    })
+    return [pathname, id];
     
 }
-(async () => {
-    // let courseList = await classesFromMyUW();
-    console.log(await setup(myuw));
-})()
+
+const main = async (username, password) => {
+    let courseList = await classesFromMyUW();
+    let calendar = await getCalendar(courseList);
+    return [courseList, calendar];
+}
+
+module.exports = main;
