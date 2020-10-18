@@ -19,7 +19,12 @@
     font-size: 20px;
     color: red;
 }
-#login-popup {
+/* #login-popup {
+    display: grid;
+    grid-template-rows: 12% 58% 30%;
+} */
+
+.login-popup-inital {
     display: grid;
     grid-template-rows: 12% 58% 30%;
 }

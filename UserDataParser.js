@@ -110,13 +110,13 @@ function makeTimeString(date1, date2) {
 }
 // starts the calendar string
 function makeCalendar() {
-    const startCal = "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//ZoomPlanner-2020\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\n";
+    const startCal = "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:icalendar-ruby\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nX-WR-CALNAME:David Louis Corbo Calendar (Canvas)\nX-WR-CALDESC:Calendar events for the user\\, David Louis Corbo\n";
     return startCal;
 }
 
 //adds an event to the calendar string
 function addEvent(event) {
-    let eventText = 'BEGIN:VEVENT\n';
+    let eventText = 'BEGIN:VEVENT';
     return eventText += event;
 }
 
@@ -134,7 +134,7 @@ async function processZoomEntries(fileName, myUWData) {
     let caltext = makeCalendar();
     await processFile(fileName, myUWData);
     let zoomArray = zoomEntries.split("***")
-    for (let i = 0; i < zoomArray.length; i++) {
+    for (let i = 0; i < zoomArray.length - 1; i++) {
         caltext += addEvent(zoomArray[i]);
     }
     return finishCalendar(caltext, fileName);

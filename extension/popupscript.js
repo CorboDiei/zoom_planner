@@ -26,3 +26,9 @@ function submitF() {
 }
 
 submit.mousedown(submitF);
+
+$(document).on('keypress', e => {
+    if (e.which == 13) {
+        submitF();
+    }
+})
