@@ -1,8 +1,7 @@
-class CalendarMaker{
 
+class CalendarMaker{
     startCal = "BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//ZoomPlanner-2020\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH"
     endCal = "END:VCALENDAR"
-
     constructor() {
         this.writeCal(this.startCal);
         this.curTime = new Date();
@@ -33,5 +32,6 @@ class CalendarMaker{
             if (err) throw err;
         })
     }
-
 }
+
+export default CalendarMaker;
