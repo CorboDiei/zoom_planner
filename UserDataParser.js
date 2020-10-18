@@ -43,12 +43,12 @@ async function processFile(fileName, myUWData) {
                 let time = myUWData[j].time;
                 let days = myUWData[j].days;
                 //check day of the week works
-                if (days.contains(toDayOfWeek(dtstart.getDay()))) {
+                if (days.includes(toDayOfWeek(dtstart.getDay()))) {
                     //check time of day works
                     let ts = makeTimeString(dtstart, dtend);
                     ts = ts.split(' ')[0];
                     time = time.split(' ')[0];
-                    if (ts.equals(time)) {
+                    if (ts.localeCompare(time) === 0) {
                         //if both work, add to zoom entries
                         zoomEntries += userDataArray[i] + '***';
                     }
