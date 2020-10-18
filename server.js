@@ -3,7 +3,6 @@ const login = require('./login');
 const bodyParser = require('body-parser');
 const fs = require('fs');
 const cors = require('cors');
-const { response } = require('express');
 const processZoomEntries = require('./UserDataParser');
 
 const app = express();
@@ -28,13 +27,13 @@ app.post('/getcal', async (req, res) => {
     var uwData = parsed[0];
     var icsPath = parsed[1][0];
     var icsID = parsed[1][1];
-    var icsFilePath = processZoomEntries(icsPath, uwData)
-    res.statusCode = 200;
-    res.json( {
-        link: 'http://localhost:3001/getcal/' + icsID
+    setTimeout(() => {
+        processZoomEntries(__dirname + "\\" + icsPath, uwData);
+        res.statusCode = 200;
+        res.json( {
+            link: 'http://localhost:3001/getcal/' + icsID
     })
-    
-
+    }, 8000)
 })
 
 app.get('/getcal/:id', (req, res) => {

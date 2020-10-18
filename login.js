@@ -1,7 +1,5 @@
 const puppeteer = require('puppeteer');
-// const c = require('./c');
 const fs = require('fs');
-const myuw = require('./myuw.json');
 const https = require('https');
 
 async function classesFromMyUW(username, password) {
@@ -164,9 +162,9 @@ async function getCalendar(courses, username, password) {
         return cal.querySelector('input').getAttribute('value');
     })
     const id = Math.random().toString(36).substring(7);
-    const pathname = __dirname + "/serve/" + id + '.ics';
-    const file = fs.createWriteStream(pathname)
-    const request = https.get(calLink, res => {
+    const pathname = "serve\\" + id + '.ics';
+    const file = fs.createWriteStream(__dirname + "/" + pathname)
+    const request = https.get(calLink, async res => {
         res.pipe(file);
     })
     return [pathname, id];
