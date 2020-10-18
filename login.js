@@ -6,7 +6,10 @@ async function setup() {
     const browser = await puppeteer.launch({
         headless: false,
         slowMo: 10,
-        devtools: true
+        devtools: true,
+        args: [
+            '--disable-web-security'
+        ]
     })
     const page = await browser.newPage();
     await page.setViewport({width: 1199, height: 900});
@@ -87,9 +90,13 @@ async function setup() {
     
     
     console.log(zoom);
-
-    let frames = await page.mainFrame().childFrames()
-    console.log(frames);
+    await page.waitForSelector('iframe');
+    let bodyHTML = await page.content();
+    console.log(bodyHTML);
+    // const iFrame_SELECTOR = '#tool_content';
+    // await page.waitForSelector(iFrame_SELECTOR);
+    // let iFrame = await page.$(iFrame_SELECTOR);
+    // console.log(iFrame.contents());
 
     // const frame_1072 = frames.find(f => f.url() === 'https://applications.zoom.us/lti/rich')
     // const TIME_ZONE_SELECTOR = '.zm-comp-header > .zm-comp-header-content > div > div > span';

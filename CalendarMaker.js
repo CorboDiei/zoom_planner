@@ -19,10 +19,12 @@ class CalendarMaker{
         this.writeCal('DTSTAMP:'+ this.curTime.getFullYear() + this.curTime.getMonth() + this.curTime.getDate() + "T000000");
         this.writeCal('URL:'+ link);
         this.writeCal('END:VEVENT');
+        console.log("test Add")
     }
 
     finishCal() {
         this.writeCal(this.endCal);
+        console.log("test finish")
     }
 
     // private helper method
@@ -34,4 +36,4 @@ class CalendarMaker{
     }
 }
 
-export default CalendarMaker;
+module.exports = CalendarMaker;
